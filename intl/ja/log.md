@@ -1,19 +1,24 @@
 # 100 Days Of Code - 学習ログ
 
-### 0日目: 2016年2月28日
+### ■ 0日目: 2024年6月19日　[Twitterリンク](https://x.com/kyohei_IT/status/1803414450508275942)
 
-**今日の進捗**: 計算機アプリのCSSを修正して、canvasの機能に取り掛かった。
+**今日の進捗**
+- GitHub準備（\#100DaysOfCode）
+- Progate Professional の Pythonによるデータ分析入門復習
+  - 「売り上げ推移をグラフ化しよう」
+- Ansible実践ガイド の プレイブックの基礎復習
+  - 変数の定義
+  - 変数の参照
+  - 変数の優先順位
+  - 条件分岐
+- OSS DB[7章] 基本的な運用管理 復習
+  - ユーザー管理
+  - 情報スキーマ
+  - システムカタログ
+  - VACUUM, ANALYZE
 
-**思ったこと** CSSにはとても苦労したけど、少しずつ上達してきてる気がする。Canvasはまだ始めたばっかりだけど、基本的な機能はいくつか理解できてきた。
+**思ったこと**
+- 今日から \#100DaysOfCode を開始。折角なのでGitHubに毎日の学習ログを残そうと思う
 
-**リンク** [計算機アプリ](http://www.example.com)
+<br>
 
-### 1日目: 2016年6月27日（月）
-
-**今日の進捗**: FreeCodeCampの演習をたくさん進めた。
-
-**思ったこと** プログラミングを始めたばかりだから、何時間もかけてやっとアルゴリズムのチャレンジが解けるとめちゃくちゃ気持ちいい！
-
-**リンク**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
