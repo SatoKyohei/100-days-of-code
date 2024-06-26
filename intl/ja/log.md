@@ -3,6 +3,7 @@
 ### ■ 7日目: 2024年6月26日　[Twitterリンク](https://x.com/kyohei_IT/status/1805976117360390461)
 
 **今日の進捗**　 3h
+
 \[復習\]
 - Progate Professional ユーザー属性ごとの来店回数をグラフ化しよう
 - OSS DB Silver 8章
