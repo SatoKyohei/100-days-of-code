@@ -1,4 +1,23 @@
-# 100 Days Of Code - 学習ログ  \[計42.25h\]
+# 100 Days Of Code - 学習ログ  \[計43.25h\]
+
+### ■ 14日目: 2024年7月4日　[Twitterリンク](https://x.com/kyohei_IT/status/1809008767570489510)
+
+**今日の進捗**　 1h
+
+\[復習\]
+- Progate Professional 月ごとの売上を集計して棒グラフで表そう
+  - to_datetime, dt.strftime, groupby, get_group, sum, count, size
+
+
+**思ったこと**
+- groupby, get_groupで引数を複数指定できた。表が今どういう感じになってるかを想像しながら（あるいは確認しながら）進めると分かりやすい。
+- 予定があったので、1時間しかできなかった...次の日勉強のために午後休とったので取り返す
+
+
+<br>
+<hr>
+<br>
+
 
 ### ■ 13日目: 2024年7月3日　[Twitterリンク](https://x.com/kyohei_IT/status/1808523822485905904)
 
