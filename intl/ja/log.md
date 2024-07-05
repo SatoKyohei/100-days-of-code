@@ -1,13 +1,14 @@
-# 100 Days Of Code - 学習ログ  \[計43.25h\]
+# 100 Days Of Code - 学習ログ  \[計46h\]
 
-### ■ 15日目: 2024年7月5日　[Twitterリンク]()
+### ■ 15日目: 2024年7月5日　[Twitterリンク](https://x.com/kyohei_IT/status/1809241665028460584)
 
-**今日の進捗**　 2h 15m
+**今日の進捗**　 2h 45m
 
 \[復習\]
 - Progate Professional チームの勝率とグッズ売り上げの相関をグラフで表そう
+  - pandas(groupby, get_group, merge, concat), matplotlib.pyplot(plt.scatter)
 - Ansible実践ガイド 3章 実践的なプレイブック利用
-- OSS DB Silver 1, 2, 3章
+- OSS DB Silver 1, 2, 3, 9章
   - PostgreSQLのライセンス
   - データモデル
   - ER図
@@ -17,6 +18,14 @@
   - データベース概要
   - テンプレートデータベース
   - initdb
+  - 算術関数
+  - 文字列関数
+  - 時刻関数
+  - データ型変換関数
+  - similar to
+  - 算術演算子
+  - 文字列演算子
+  - 日付／時刻演算子
 
 
 **思ったこと**
