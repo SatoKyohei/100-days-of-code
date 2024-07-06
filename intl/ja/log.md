@@ -1,4 +1,35 @@
-# 100 Days Of Code - 学習ログ  \[計46h\]
+# 100 Days Of Code - 学習ログ  \[計50h\]
+
+### ■ 16日目: 2024年7月6日　[Twitterリンク](https://x.com/kyohei_IT/status/1809622687351972326)
+
+**今日の進捗**　 4h
+
+\[新規\]
+- プロになるためのWeb技術入門 6.1~6.3章
+- Ansible実践ガイド 3章 実践的なプレイブック利用
+
+\[復習\]
+- OSS DB Silver 4, 5, 10章
+  - pg_ctl, psql, createuser, createdb, dropuser, dropdb, pg_controldata, pg_isready, pg_resetwal, pg_config
+  - postgresql.conf
+  - pg_hba.conf
+  - set文
+  - トランザクション制御コマンド
+  - トランザクション分離性
+  - ロック
+
+
+
+**思ったこと**
+- やっぱり反復が大事だったのか。今までは一度インプットして終わりの学習方法だったから、理解度が低かったけど、1／3／7／30日後の4回復習始めてから定着率良い感じ
+- 分離性もイメージはついてきた。直列化異常だけまだ理解できてない。
+- 排他ロック中は別の処理から排他/共有ロックを取得できないはず。ということはデッドロックとは共有ロック同士が掛かりあってる状態？
+
+
+<br>
+<hr>
+<br>
+
 
 ### ■ 15日目: 2024年7月5日　[Twitterリンク](https://x.com/kyohei_IT/status/1809241665028460584)
 
