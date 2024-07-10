@@ -1,4 +1,35 @@
-# 100 Days Of Code - 学習ログ  \[計53.75h\]
+# 100 Days Of Code - 学習ログ  \[計57.75h\]
+
+### ■ 19日目: 2024年7月10日　[Twitterリンク](https://x.com/kyohei_IT/status/1811061401739481335)
+
+**今日の進捗**　 4h
+
+\[新規\]
+- Paiza 新・SQL入門編02ドリル
+
+\[復習\]
+- Ansible実践ガイド 3章 実践的なプレイブック利用
+- OSS DB Silver 4, 5, 6章
+  - pg_ctl, psql, createuser, createdb, dropuser, dropdb, pg_controldata, pg_isready, pg_resetwal, pg_config
+  - postgresql.conf
+  - pg_hba.conf
+  - set文
+  - バックアップ／リストア
+- ゼロから始めるデータベース操作 1, 2, 3章
+  - create／alter／drop table, select, from, where, group by, having, order by, limit
+  - 集約関数
+
+
+**思ったこと**
+- pandasのgroupbyを学んだおかげで、sqlのgroup by句がかなり理解できた
+- まだ写経ばかりでゼロからプレイブックは作れてないけど、それでも理解したり思い出しながらやることで身についているのがわかる。
+- ただ、まだ外部ファイルの読み込みがよく分かってない
+
+
+<br>
+<hr>
+<br>
+
 
 ### ■ 18日目: 2024年7月9日　[Twitterリンク](https://x.com/kyohei_IT/status/1810706760673685966)
 
