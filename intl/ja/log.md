@@ -1,4 +1,27 @@
-# 100 Days Of Code - 学習ログ  \[計57.75h\]
+# 100 Days Of Code - 学習ログ  \[計61h\]
+
+### ■ 20日目: 2024年7月11日　[Twitterリンク](https://x.com/kyohei_IT/status/1811418589259591980)
+
+**今日の進捗**　 3.25h
+
+\[復習\]
+- ゼロから始めるデータベース操作 1, 2, 3, 4, 5章
+  - create／alter／drop table, select, from, where, group by, having, order by, limit
+  - distinct
+  - 集約関数
+  - view
+  - サブクエリ, スカラ・サブクエリ, 相関サブクエリ
+
+
+**思ったこと**
+- かなりSQLわかってきた！前やってた時は全くだったのに、成長を実感している.
+- あとOSSDB取得まで30%ほど
+
+
+<br>
+<hr>
+<br>
+
 
 ### ■ 19日目: 2024年7月10日　[Twitterリンク](https://x.com/kyohei_IT/status/1811061401739481335)
 
