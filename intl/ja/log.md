@@ -1,4 +1,23 @@
-# 100 Days Of Code - 学習ログ  \[計65.25h\]
+# 100 Days Of Code - 学習ログ  \[計68h\]
+
+### ■ 23日目: 2024年7月14日　[Twitterリンク](https://x.com/kyohei_IT/status/1812508520497246543)
+
+**今日の進捗**　 2.75h(今週:17h)
+
+\[新規\]
+- Paiza 新・SQL入門編04ドリル
+- Udemy FastAPI セクション 4
+
+
+**思ったこと**
+- inner join, left/right outer join がわかった!外部結合は左を全部含むか右を全部含むかの違いね。
+
+
+
+<br>
+<hr>
+<br>
+
 
 ### ■ 22日目: 2024年7月13日　[Twitterリンク](https://x.com/kyohei_IT/status/1811791159691514273)
 
