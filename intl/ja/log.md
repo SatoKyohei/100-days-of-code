@@ -1,4 +1,34 @@
-# 100 Days Of Code - 学習ログ  \[計68h\]
+# 100 Days Of Code - 学習ログ  \[計73.5h\]
+
+### ■ 24日目: 2024年7月15日　[Twitterリンク](https://x.com/kyohei_IT/status/1812872149629300879)
+
+**今日の進捗**　 5.5h
+
+\[新規\]
+- Udemy FastAPI セクション 4
+- Paiza 新・SQL入門編05, 06
+
+\[復習\]
+- ゼロから始めるデータベース操作 6, 7章
+  - 集合演算
+  - 内部結合、外部結合
+- OSS DB Silver 3, 4章
+  - テンプレートデータベース
+  - initdb
+  - pg_ctl, psql, createuser, createdb, dropuser, dropdb, pg_controldata, pg_isready, pg_resetwal, pg_config
+  - postgresql.conf
+  - pg_hba.conf
+
+**思ったこと**
+- パスパラメータ, 型ヒントによるフィルタリングなど、基本的な使い方の半分は理解できた。思ってた以上にシンプルだった。
+- 集合演算と結合が結構慣れてきた。
+
+
+
+<br>
+<hr>
+<br>
+
 
 ### ■ 23日目: 2024年7月14日　[Twitterリンク](https://x.com/kyohei_IT/status/1812508520497246543)
 
