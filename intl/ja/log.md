@@ -1,4 +1,18 @@
-# 100 Days Of Code - 学習ログ  \[計73.5h\]
+# 100 Days Of Code - 学習ログ  \[計75.5h\]
+
+### ■ 25日目: 2024年7月16日　[Twitterリンク](https://x.com/kyohei_IT/status/1813358119793381523)
+
+**今日の進捗**　 2h
+
+\[新規\]
+- Udemy FastAPI セクション 4
+
+
+
+<br>
+<hr>
+<br>
+
 
 ### ■ 24日目: 2024年7月15日　[Twitterリンク](https://x.com/kyohei_IT/status/1812872149629300879)
 
