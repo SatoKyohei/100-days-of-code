@@ -1,15 +1,17 @@
-# 100 Days Of Code - 学習ログ  \[計99h\]
+# 100 Days Of Code - 学習ログ  \[計102h\]
 
-### ■ 35日目: 2024年7月27日　[Twitterリンク]()
+### ■ 35日目: 2024年7月27日　[Twitterリンク](https://x.com/kyohei_IT/status/1817227617650802895)
 
-**今日の進捗**　  105m
+**今日の進捗**　  3h
 
 \[新規\]
-- Udemy FastAPI セクション 6
+- Udemy FastAPI セクション 6, 7
 
 
 **思ったこと**
-- 
+- importエラーやpylint, flake8の警告解消の調査、学習方法の見直しにほぼ1日を費やした。
+- 今まではNotionに書籍を丸ごとコピペして体裁整えて...と相当時間をムダにしてた。
+- Notion x Goodnotesのおかげで数十時間の節約になりそう😢
 
 
 <br>
