@@ -1,4 +1,22 @@
-# 100 Days Of Code - 学習ログ  \[計102h\]
+# 100 Days Of Code - 学習ログ  \[計105\]
+
+### ■ 36日目: 2024年7月28日　[Twitterリンク](https://x.com/kyohei_IT/status/1817574464206581763)
+
+**今日の進捗**　  3h
+
+\[新規\]
+- Udemy FastAPI セクション 7
+- Pythonプロフェッショナル大全
+
+
+**思ったこと**
+- streamlitのsidebar, selectbox, number_input, text_input, ...などを使ってfastapiとの連携の仕方を学んだ。
+
+
+<br>
+<hr>
+<br>
+
 
 ### ■ 35日目: 2024年7月27日　[Twitterリンク](https://x.com/kyohei_IT/status/1817227617650802895)
 
@@ -25,7 +43,6 @@
 
 \[新規\]
 - Udemy FastAPI セクション 6
-
 
 
 <br>
