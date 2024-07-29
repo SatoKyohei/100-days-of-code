@@ -1,4 +1,23 @@
-# 100 Days Of Code - 学習ログ  \[計105\]
+# 100 Days Of Code - 学習ログ  \[計105h\]
+
+### ■ 37日目: 2024年7月29日　[Twitterリンク](https://x.com/kyohei_IT/status/1817947223973560599)
+
+**今日の進捗**　  2h
+
+\[新規\]
+- Udemy FastAPI セクション 7
+
+
+**思ったこと**
+- input系の関数名はたいていst.xxxx_input()。st.number_ , http://st.date_ , st.text_ など。
+- datetimeの使い方も結構覚えれた。
+- http://datetime.date.xxxx, datetime.datetime(year=xx, month=xx, ....).isoformat()
+
+
+<br>
+<hr>
+<br>
+
 
 ### ■ 36日目: 2024年7月28日　[Twitterリンク](https://x.com/kyohei_IT/status/1817574464206581763)
 
