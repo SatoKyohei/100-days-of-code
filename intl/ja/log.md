@@ -1,4 +1,27 @@
-# 100 Days Of Code - 学習ログ  \[計105h\]
+# 100 Days Of Code - 学習ログ  \[計107.5h\]
+
+### ■ 38日目: 2024年7月30日　[Twitterリンク](https://x.com/kyohei_IT/status/1818421024821854391)
+
+**今日の進捗**　  2.5h
+
+\[新規\]
+- Udemy FastAPI セクション 7: 49~50
+
+\[復習\]
+- Udemy FastAPI セクション 7: 41~45,48
+- ゼロから始めるデータベース操作 5, 6章
+  - view
+  - サブクエリ, スカラ・サブクエリ, 相関サブクエリ
+  - 組み込み関数
+  - like, between, in, not in 
+
+**思ったこと**
+- ORMというDBMS操作ツールの概要部分を学習✌️
+
+<br>
+<hr>
+<br>
+
 
 ### ■ 37日目: 2024年7月29日　[Twitterリンク](https://x.com/kyohei_IT/status/1817947223973560599)
 
