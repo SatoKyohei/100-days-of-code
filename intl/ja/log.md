@@ -1,14 +1,17 @@
-# 100 Days Of Code - 学習ログ  \[計111.5h\]
+# 100 Days Of Code - 学習ログ  \[計115h\]
 
-### ■ 42日目: 2024年8月3日　[Twitterリンク]()
+### ■ 42日目: 2024年8月3日　[Twitterリンク](https://x.com/kyohei_IT/status/1819750257296879781)
 
-**今日の進捗**　  175m
+**今日の進捗**　  3.5h
 
 \[新規\]
 - Axross Resipe suumoから物件情報取得
+- \[OSS DB\] Ping-t
+  - SQLコマンド（8章)
 
 **思ったこと**
-
+- 作りたいものが浮かばない内はひたすら写経しようと思い、Axross Resipeで良い題材を見つけて勉強。
+- BeautifulSoupの基礎的な使い方がわかった。find, find_all, parserが基本みたい
 
 <br>
 <hr>
