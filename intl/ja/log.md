@@ -1,4 +1,22 @@
-# 100 Days Of Code - 学習ログ  \[計115h\]
+# 100 Days Of Code - 学習ログ  \[計119.5h\]
+
+### ■ 43日目: 2024年8月4日　[Twitterリンク](https://x.com/kyohei_IT/status/1820104528186015762)
+
+**今日の進捗**　  4.5h
+
+\[新規\]
+- \[OSS DB\] Ping-t
+  - SQLコマンド（8章)
+- Axross Resipe suumoから物件情報取得
+
+**思ったこと**
+- やっと一番難関のpingt177問が終わった...
+- trigger, sequence, schema, function, procedure, etc...がすごく覚えづらかったけど問題を繰り返すとやっぱ身に付く😄
+
+<br>
+<hr>
+<br>
+
 
 ### ■ 42日目: 2024年8月3日　[Twitterリンク](https://x.com/kyohei_IT/status/1819750257296879781)
 
