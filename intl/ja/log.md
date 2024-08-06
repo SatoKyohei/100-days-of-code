@@ -1,4 +1,18 @@
-# 100 Days Of Code - 学習ログ  \[計119.5h\]
+# 100 Days Of Code - 学習ログ  \[計120.75h\]
+
+### ■ 44日目: 2024年8月5日　[Twitterリンク](https://x.com/kyohei_IT/status/1820614528998191175)
+
+**今日の進捗**　  1.25h
+
+\[復習\]
+- Udemy FastAPI セクション 38~47
+
+**思ったこと**
+- 講座でやってるapp.py（Streamlit）とmain.py（FastAPI）を何も見ずに思い出しながら書いてみた（白紙勉強法）。
+
+<br>
+<hr>
+<br>
 
 ### ■ 43日目: 2024年8月4日　[Twitterリンク](https://x.com/kyohei_IT/status/1820104528186015762)
 
