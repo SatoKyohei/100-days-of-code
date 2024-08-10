@@ -1,4 +1,25 @@
-# 100 Days Of Code - 学習ログ  \[計129h\]
+# 100 Days Of Code - 学習ログ  \[計133.5h\]
+
+### ■ 47日目: 2024年8月9日　[Twitterリンク](https://x.com/kyohei_IT/status/1822073146381635654)
+
+**今日の進捗**　  4.5h
+
+\[新規\]
+- \[OSS DB\] Ping-t
+  - 基本的な運用管理作業
+  - リレーショナルデータベースに関する一般知識
+- OSS-DB Exam Silver 模擬試験 41~60問
+
+\[復習\]
+- Axross Resipe suumoから物件情報取得
+
+**思ったこと**
+- やっとpingt, 参考書の問題すべて終わった。もう1周ずつやって試験に挑む！
+
+<br>
+<hr>
+<br>
+
 
 ### ■ 46日目: 2024年8月8日　[Twitterリンク](https://x.com/kyohei_IT/status/1821574493405671586)
 
