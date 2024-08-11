@@ -1,4 +1,22 @@
-# 100 Days Of Code - 学習ログ  \[計133.5h\]
+# 100 Days Of Code - 学習ログ  \[計135h\]
+
+### ■ 48日目: 2024年8月10日　[Twitterリンク](https://x.com/kyohei_IT/status/1822426899316088981)
+
+**今日の進捗**　  1.5h
+
+\[新規\]
+- Axross Resipe suumoから物件情報取得
+
+
+**思ったこと**
+- 好きな住所を入れて座標を取得できるAPIにリクエスト送るためのモジュールを写経
+- http://geocoding.jp/api
+- with open(), open(), ... と複数行一気に開けることを知った
+
+<br>
+<hr>
+<br>
+
 
 ### ■ 47日目: 2024年8月9日　[Twitterリンク](https://x.com/kyohei_IT/status/1822073146381635654)
 
