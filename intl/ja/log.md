@@ -1,4 +1,25 @@
-# 100 Days Of Code - 学習ログ  \[計146.75h\]
+# 100 Days Of Code - 学習ログ  \[計149.75h\]
+
+### ■ 52日目: 2024年8月14日　[Twitterリンク](https://x.com/kyohei_IT/status/1823738270284701765)
+
+**今日の進捗**　  3h
+
+\[新規\]
+- DAILY CODE
+  - Wantedlyから求人情報をスクレイピングするモジュール
+
+\[復習\]
+- \[OSS DB\] Ping-t 120問
+- Axross Resipe suumoから物件情報取得
+
+**思ったこと**
+- Wantedlyから求人情報を集めるコードを書いてみた！何も見ずに書いたけどノーミスでちゃんと動いて嬉しい
+- DBも順調。金曜はOSS DB試験！
+
+<br>
+<hr>
+<br>
+
 
 ### ■ 51日目: 2024年8月13日　[Twitterリンク](https://x.com/kyohei_IT/status/1823388278432924101)
 
