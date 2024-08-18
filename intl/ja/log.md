@@ -1,4 +1,22 @@
-# 100 Days Of Code - 学習ログ  \[計154.25h\]
+# 100 Days Of Code - 学習ログ  \[計158.25h\]
+
+### ■ 56日目: 2024年8月18日　[Twitterリンク](https://x.com/kyohei_IT/status/1825304179268870638)
+
+**今日の進捗**　  4h
+
+- CodeLesson Javascript
+- DAILY CODE
+  - Wantedlyから求人情報をスクレイピングするモジュールのカスタマイズ
+
+
+**思ったこと**
+- reを学んだので早速自分のコードに組み込んでみた。動いたのでヨシ！
+- 今日は担当メンターとの初回面談だけどJS初級の勉強は課題以外完了
+
+<br>
+<hr>
+<br>
+
 
 ### ■ 55日目: 2024年8月17日　[Twitterリンク](https://x.com/kyohei_IT/status/1824961563973034202)
 
