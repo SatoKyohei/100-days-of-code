@@ -1,4 +1,24 @@
-# 100 Days Of Code - 学習ログ  \[計158.25h\]
+# 100 Days Of Code - 学習ログ  \[計163.25h\]
+
+### ■ 57日目: 2024年8月20日　[Twitterリンク](https://x.com/kyohei_IT/status/1826039749599179057)
+
+**今日の進捗**　  ５h
+- Javascript初級
+  - Javascriptドリル/EASY
+- CodeLesson Javascript中級
+  - 配列メソッド1
+  - 配列メソッド2
+  - コールバック関数の実践的な使い方を学んでいこう
+
+
+**思ったこと**
+- 昔挫折したコールバック関数、今回はすんなり理解できて良かった。forEach, find, map, filter など
+- 他学んだメソッドは substring, splice, slice, setTimeOut, push, shift, unshift, pop, ...　など。
+
+<br>
+<hr>
+<br>
+
 
 ### ■ 56日目: 2024年8月18日　[Twitterリンク](https://x.com/kyohei_IT/status/1825304179268870638)
 
