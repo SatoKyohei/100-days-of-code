@@ -1,4 +1,26 @@
-# 100 Days Of Code - 学習ログ  \[計163.25h\]
+# 100 Days Of Code - 学習ログ  \[計168.75h\]
+
+### ■ 58日目: 2024年8月21日　[Twitterリンク](https://x.com/kyohei_IT/status/1826272267141300569)
+
+**今日の進捗**　  5.5h
+- Javascript中級
+  - CodeLesson
+    - Javascriptの非同期処理について学んでいこう
+    - JavascriptのPromiseオブジェクト
+    - JavaScriptの文字列メソッド
+    - JavaScriptのオブジェクト・基礎
+    - JavaScriptのオブジェクト・基礎 2
+    - JavaScriptのオブジェクト・標準
+
+
+**思ったこと**
+- 初見だとawaitはどこに書くか迷う。基本は非同期関数の前に使用。たとえばfetchとか。
+- Promise関数で404などが返ってきてもresolveであることに注意。
+
+<br>
+<hr>
+<br>
+
 
 ### ■ 57日目: 2024年8月20日　[Twitterリンク](https://x.com/kyohei_IT/status/1826039749599179057)
 
