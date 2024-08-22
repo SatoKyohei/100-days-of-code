@@ -1,4 +1,28 @@
-# 100 Days Of Code - 学習ログ  \[計168.75h\]
+# 100 Days Of Code - 学習ログ  \[計175.5h\]
+
+### ■ 59日目: 2024年8月22日　[Twitterリンク](https://x.com/kyohei_IT/status/1826642632749293992)
+
+**今日の進捗**　  6.75h
+- Javascript中級
+  - 小学生でもわかるasync/await/Promise入門【JavaScript講座】
+  - スキルチェックJavaScriptレベル2の内容が理解・使えるか確認
+  - Javascriptドリル/NORMAL
+  - リファクタドリル[EASY]
+- JavaScript DOM操作
+  - 【JavaScript基礎・初心者向け】便利なDOM操作をやってみよう！メソッドの紹介 / 簡単な実装例を解説【プログラミング入門】
+  - JavaScriptのメソッドを使ってみよう！DOM操作の基本解説 クリックイベントの設定・クラス操作のやり方
+
+
+**思ったこと**
+- awaitをつけてOKな対象が若干怪しいかも。
+- Promiseや非同期周りは概ね理解
+- DOM操作もほぼOK。querySelectorが少し迷うかな
+
+
+<br>
+<hr>
+<br>
+
 
 ### ■ 58日目: 2024年8月21日　[Twitterリンク](https://x.com/kyohei_IT/status/1826272267141300569)
 
