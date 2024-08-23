@@ -1,4 +1,30 @@
-# 100 Days Of Code - 学習ログ  \[計175.5h\]
+# 100 Days Of Code - 学習ログ  \[計180h\]
+
+### ■ 60日目: 2024年8月23日　[Twitterリンク](https://x.com/kyohei_IT/status/1827006898958381532)
+
+**今日の進捗**　  4.5h
+- 開発ツール
+  - terminal コマンド編
+  - Command Line 基礎編
+- Google Chrome
+  - 最新のChromeデベロッパーツールの使い方をキャッチアップ
+  - Google Chromeデベロッパーツールの基本的な使い方をわかりやすく解説
+  - Google Chromeの検証ツール（デベロッパーツール）使い方解説！
+
+- JavaScript DOM 初級
+  - CodeLesson
+    - JavaScript DOM イベント操作でアクションを実行しよう
+    - CodeLesson - JavaScript DOM操作を体験しよう
+
+
+**思ったこと**
+- DOM操作だいぶ慣れてきた！..けどReactあたりのモダンJSだともっと簡潔に書けるらしいのでDOMは歴史をさらう程度。
+
+
+<br>
+<hr>
+<br>
+
 
 ### ■ 59日目: 2024年8月22日　[Twitterリンク](https://x.com/kyohei_IT/status/1826642632749293992)
 
