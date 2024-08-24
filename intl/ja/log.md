@@ -1,6 +1,6 @@
-# 100 Days Of Code - 学習ログ  \[計180h\]
+# 100 Days Of Code - 学習ログ  \[計185h\]
 
-### ■ 61日目: 2024年8月24日　[Twitterリンク]()
+### ■ 61日目: 2024年8月24日　[Twitterリンク](https://x.com/kyohei_IT/status/1827366622006538604)
 
 **今日の進捗**　  5h
 - JavaScript DOM 初級
