@@ -1,4 +1,25 @@
-# 100 Days Of Code - 学習ログ  \[計185h\]
+# 100 Days Of Code - 学習ログ  \[計189h\]
+
+### ■ 62日目: 2024年8月25日　[Twitterリンク](https://x.com/kyohei_IT/status/1827717107620217047)
+
+**今日の進捗**　  4h
+- Git
+  - 新しい SSH キーを生成して ssh-agent に追加する
+  - VSCodeでGit・GitHubを使う方法を解説する【初心者向き】
+  - GitHub環境構築
+  - Git Ⅰ(学習コース)
+- Javascript初中級、DOMの軽い見直し
+
+
+**思ったこと**
+- Git, SSH, VSCode周りの学習！
+- VSCodeでブランチ作成／変更／削除／マージとか学んでるけどCLIでもできるようにしておかないとだな
+- なにはともあれ当初2ヶ月で組まれてたカリキュラムを8日で完了。良いペース👍
+
+<br>
+<hr>
+<br>
+
 
 ### ■ 61日目: 2024年8月24日　[Twitterリンク](https://x.com/kyohei_IT/status/1827366622006538604)
 
