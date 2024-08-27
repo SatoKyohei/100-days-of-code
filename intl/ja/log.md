@@ -153,7 +153,7 @@
 
 ### ■ 57日目: 2024年8月20日　[Twitterリンク](https://x.com/kyohei_IT/status/1826039749599179057)
 
-**今日の進捗**　  ５h
+**今日の進捗**　  5h
 - Javascript初級
   - Javascriptドリル/EASY
 - CodeLesson Javascript中級
