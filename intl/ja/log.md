@@ -1,4 +1,25 @@
-# 100 Days Of Code - 学習ログ  \[計200.75h\]
+# 100 Days Of Code - 学習ログ  \[計207.25h\]
+
+### ■ 68日目: 2024年8月31日　[Twitterリンク](https://x.com/kyohei_IT/status/1829914858978197747)
+
+**今日の進捗**　  5h
+- TypeScript　初級
+  - TypeScriptおすすめ記事レベル1を読了する
+    - サバイバルTypeScript
+  - 型ドリル\[EASY\]
+  - 型ドリル\[NORMAL\] 途中
+  - TypeScriptを実践で活用したい人向けの基本を徹底解説
+
+
+**思ったこと**
+- TypeScript初学者はみんな悲鳴あげてると思う...
+- 「100%理解しよう」と思わないことが大事。時間掛かっていい
+- keyof, typeof, Omit, Exclude, Required, Pick, readonly, 他...
+
+<br>
+<hr>
+<br>
+
 
 ### ■ 67日目: 2024年8月30日　[Twitterリンク](https://x.com/kyohei_IT/status/1829530216559173841)
 
