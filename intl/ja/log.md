@@ -1,4 +1,25 @@
-# 100 Days Of Code - 学習ログ  \[計212.25h\]
+# 100 Days Of Code - 学習ログ  \[計215.75h\]
+
+### ■ 70日目: 2024年9月2日　[Twitterリンク](https://x.com/kyohei_IT/status/1830630970422432061)
+
+**今日の進捗**　  3.5h
+- TypeScript　中級
+  - ゴリ押ししないTypeScript 型ガードの使いどころ5選
+  - 使えると便利！TypeScriptのUtilityType入門
+  - 最速で学ぶTypeScript
+  - TypeScriptの型演習 (0 -> 5%)
+
+
+**思ったこと**
+- ジェネリクスで表記するPromise型というのがあるとのこと。Promise<T>。Promiseが実行された場合の関数の戻り値。
+- やっとkeyof と typeof の違いを理解。型に使うのか、定義済みの変数に使うのか、というだけでした。
+- 複数の教材で学習すると、別の角度からの気付きもあるし、繰り返したくさん同じ情報に出会うから記憶が強化されてる！って感じがします。
+- 最初絶望していたTypeScriptも、少しだけマシになってきました
+
+<br>
+<hr>
+<br>
+
 
 ### ■ 69日目: 2024年9月1日　[Twitterリンク](https://x.com/kyohei_IT/status/1830281027509739677)
 
