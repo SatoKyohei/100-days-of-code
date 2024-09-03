@@ -1,4 +1,20 @@
-# 100 Days Of Code - 学習ログ  \[計215.75h\]
+# 100 Days Of Code - 学習ログ  \[計217h\]
+
+### ■ 71日目: 2024年9月3日　[Twitterリンク](https://x.com/kyohei_IT/status/1831115172553093315)
+
+**今日の進捗**　  1.25h
+- TypeScript　中級
+  - TypeScriptの型演習
+
+
+**思ったこと**
+- 昨日は新調したM3 Macbook airの初期設定であまり進まず、初めて1項目も進まなかったです。
+- そして型演習に苦戦中...Partial一発でできることをジェネリクスで表現した別解ってことなのか...
+
+<br>
+<hr>
+<br>
+
 
 ### ■ 70日目: 2024年9月2日　[Twitterリンク](https://x.com/kyohei_IT/status/1830630970422432061)
 
