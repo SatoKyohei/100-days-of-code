@@ -1,5 +1,20 @@
 # 100 Days Of Code - 学習ログ  \[計217h\]
 
+### ■ 72日目: 2024年9月4日　[Twitterリンク]()
+
+**今日の進捗**　  70
+- TypeScript　中級
+  - TypeScriptの型演習
+
+
+**思ったこと**
+- 
+
+<br>
+<hr>
+<br>
+
+
 ### ■ 71日目: 2024年9月3日　[Twitterリンク](https://x.com/kyohei_IT/status/1831115172553093315)
 
 **今日の進捗**　  1.25h
