@@ -1,5 +1,26 @@
 # 100 Days Of Code - 学習ログ  \[計218.5h\]
 
+### ■ 73日目: 2024年9月5日　[Twitterリンク](https://x.com/kyohei_IT/status/1831707693125636111)
+
+**今日の進捗**　  2.75h
+- TypeScript　中級
+  - TypeScriptおすすめ記事レベル2を読了する
+  - 型ドリル\[HARD\]
+- React 初級
+  - React Developer Toolsのすすめ
+  - nodeのpackage管理ツールを導入する（React）
+  - 【ESlint/Prettier入門】自動コード整形と構文チェックで開発効率を爆上げしてみよう -> \[20%\]
+
+
+**思ったこと**
+- Typescriptがやっとｵﾜﾀ...
+- 最後の最後に自力で　MyPartial<T> = {\[K in keyof T\]?: T\[K\]}　こういう解答も導き出せたので、脳に負荷かけてきてよかった😭
+
+<br>
+<hr>
+<br>
+
+
 ### ■ 72日目: 2024年9月4日　[Twitterリンク](https://x.com/kyohei_IT/status/1831361401505628658)
 
 **今日の進捗**　  1.5h
