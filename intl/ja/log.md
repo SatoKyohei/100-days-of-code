@@ -1,4 +1,22 @@
-# 100 Days Of Code - 学習ログ  \[計219.75h\]
+# 100 Days Of Code - 学習ログ  \[計2２５h\]
+
+### ■ 75日目: 2024年9月7日　[Twitterリンク](https://x.com/kyohei_IT/status/1832451518005703105)
+
+**今日の進捗**　  5.25h
+- React 初級
+  - 【ESlint/Prettier入門】自動コード整形と構文チェックで開発効率を爆上げしてみよう
+  - のび太君でもわかるReact入門
+- 環境構築
+
+
+**思ったこと**
+- 参考動画のESlint/Prettierはver8.48.0。現在はv9以上。
+- 来年頭にはv10で現在の書式は廃止され、Flat Config形式になるので、Flat Configについて深掘り。
+
+<br>
+<hr>
+<br>
+
 
 ### ■ 74日目: 2024年9月6日　[Twitterリンク](https://x.com/kyohei_IT/status/1832226631076999556)
 
