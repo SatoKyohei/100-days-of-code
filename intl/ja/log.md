@@ -1,4 +1,22 @@
-# 100 Days Of Code - 学習ログ  \[計229.5h\]
+# 100 Days Of Code - 学習ログ  \[計231.25h\]
+
+### ■ 77日目: 2024年9月9日　[Twitterリンク](https://x.com/kyohei_IT/status/1833150223197372759)
+
+**今日の進捗**　  1.75h
+- React 初級
+  - CodeLesson
+    - Reactによく出るJavaScriptをおさらいしよう
+    - React入門
+
+
+**思ったこと**
+- {}で関数や変数を呼び出せる、子要素は<></>で囲む、<関数名 />という呼び方もある。
+- const [変数, 変数にセットする関数] = useState(初期値)
+
+<br>
+<hr>
+<br>
+
 
 ### ■ 76日目: 2024年9月8日　[Twitterリンク](https://x.com/kyohei_IT/status/1832800964455403689)
 
