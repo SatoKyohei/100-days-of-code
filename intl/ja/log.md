@@ -1,4 +1,25 @@
-# 100 Days Of Code - 学習ログ  \[計231.25h\]
+# 100 Days Of Code - 学習ログ  \[計234h\]
+
+### ■ 78日目: 2024年9月10日　[Twitterリンク](https://x.com/kyohei_IT/status/1833511337114406961)
+
+**今日の進捗**　  2.75h
+- React 初級
+  - CodeLesson
+    - React入門
+    - React基礎
+    - Reactでカウンターアプリを作ろう
+    - Reactで問い合わせフォームを作ろう
+
+
+**思ったこと**
+- 激ムズのTypeScriptではなくJavaScriptで進めているので今のところ順調😭
+- useState, useEffect, props, イベントハンドラ, preventDefault, 三項演算子との併用などなど。
+- { state && HTML要素} の記法がなぜかお気に入り
+
+<br>
+<hr>
+<br>
+
 
 ### ■ 77日目: 2024年9月9日　[Twitterリンク](https://x.com/kyohei_IT/status/1833150223197372759)
 
