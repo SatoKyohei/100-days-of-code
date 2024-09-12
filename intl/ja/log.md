@@ -1,4 +1,21 @@
-# 100 Days Of Code - 学習ログ  \[計234h\]
+# 100 Days Of Code - 学習ログ  \[計236h\]
+
+### ■ 80日目: 2024年9月12日　[Twitterリンク](https://x.com/kyohei_IT/status/1834231616539164809)
+
+**今日の進捗**　  2h
+- React 初級
+  - 【React Hooks入門】完全初心者OK！8種類のHooksを学んでReactの理解を深めよう
+  - モダンJavaSciptの基礎から始める挫折しないためのReact入門  --> 5%
+
+
+**思ったこと**
+- 今のメンターサービスのおかげで本当に勉強の仕方が変わった😭
+- day54から勉強始めて87.75時間で、VSCode, Git/Github, Chome(Devツール), JavaScript, TypeScript, React初級までできるとは思わなかったです
+
+<br>
+<hr>
+<br>
+
 
 ### ■ 79日目: 2024年9月11日　[Twitterリンク](https://x.com/kyohei_IT/status/1833883053896384712)
 
