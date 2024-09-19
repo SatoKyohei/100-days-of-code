@@ -1,4 +1,19 @@
-# 100 Days Of Code - 学習ログ  \[計254.5h\]
+# 100 Days Of Code - 学習ログ  \[計256h\]
+
+### ■ 89日目: 2024年9月19日　[Twitterリンク](https://x.com/kyohei_IT/status/1836763792505807228)
+
+**今日の進捗**　  1.5h
+- React 中級
+  - React Hook Form ライブラリの使い方！フォームのバリデーションを実装しよう【 TypeScript 】 ---> 60%
+
+**思ったこと**
+- useFormがすこし理解できた。register関数の第二引数は { required: {xxx: yyy}} の書式の方が見やすい
+- オプションとかとんでもない量あるので、頻出のやつから覚えていく
+
+<br>
+<hr>
+<br>
+
 
 ### ■ 86日目: 2024年9月18日　[Twitterリンク](https://x.com/kyohei_IT/status/1836413155536441509)
 
