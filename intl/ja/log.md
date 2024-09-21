@@ -9,7 +9,7 @@
   - 【YouTube】Ansibleを学ぼう
 
 **思ったこと**
-- 
+- useRef, localStorageが少し分かりかけてきた。あともう一つは今の業務に必要な技術の学習。
 
 <br>
 <hr>
