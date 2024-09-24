@@ -1,4 +1,16 @@
-# 100 Days Of Code - 学習ログ  \[計279.25h\]
+# 100 Days Of Code - 学習ログ  \[計282h\]
+
+### ■ 92日目: 2024年9月24日　[Twitterリンク](https://x.com/kyohei_IT/status/1838588266834202705)
+
+**今日の進捗**　  2.75h
+- React 上級
+  - Reactに入門した人のためのもっとReactが楽しくなるステップアップコース完全版 ---> 50%
+
+
+**思ったこと**
+- useContextも少し理解が進みました！この講座だけで新しいこと学びすぎて混乱中ですが、たぶん時間が解決してくれそう。
+- styled-components, Atomic Design, useHistory, レンダリング最適化などなど...
+
 
 ### ■ 91日目: 2024年9月23日　[Twitterリンク](https://x.com/kyohei_IT/status/1838228057221689520)
 
