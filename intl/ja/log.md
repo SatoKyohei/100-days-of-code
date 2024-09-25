@@ -1,4 +1,19 @@
-# 100 Days Of Code - 学習ログ  \[計282h\]
+# 100 Days Of Code - 学習ログ  \[計284h\]
+
+### ■ 93日目: 2024年9月25日　[Twitterリンク](https://x.com/kyohei_IT/status/1838931410989822200)
+
+**今日の進捗**　 2h
+- React 上級
+  - Reactに入門した人のためのもっとReactが楽しくなるステップアップコース完全版 ---> 70%
+
+
+**思ったこと**
+- オプショナルチェーンの使いドコロが理解できました。なるほど、undefinedが渡される可能性もあるからってことね...
+- axiosの使い方もついでに覚えれてラッキーでした✌️
+
+<br>
+<hr>
+<br>
 
 ### ■ 92日目: 2024年9月24日　[Twitterリンク](https://x.com/kyohei_IT/status/1838588266834202705)
 
@@ -11,6 +26,9 @@
 - useContextも少し理解が進みました！この講座だけで新しいこと学びすぎて混乱中ですが、たぶん時間が解決してくれそう。
 - styled-components, Atomic Design, useHistory, レンダリング最適化などなど...
 
+<br>
+<hr>
+<br>
 
 ### ■ 91日目: 2024年9月23日　[Twitterリンク](https://x.com/kyohei_IT/status/1838228057221689520)
 
@@ -24,6 +42,9 @@
 - Memo, UseCallback, useMemo, styled-components, react-router, 他...
 - Chakra UI のレッスンが楽しみすぎます！
 
+<br>
+<hr>
+<br>
 
 ### ■ 90日目: 2024年9月22日　[Twitterリンク](https://x.com/kyohei_IT/status/1837863224009806251)
 
