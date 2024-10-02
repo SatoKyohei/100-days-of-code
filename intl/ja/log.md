@@ -9,7 +9,14 @@
 
 
 **思ったこと**
-- 
+- グローバルステートがやっと少し理解できました✌️
+const xxx = createContext() 
+↓
+useStateでステートを用意
+↓
+コンポーネントのreturnで<xxx.Provider value={ステート}>
+↓
+使う側でconst { ステート } = useContext
 
 
 <br>
