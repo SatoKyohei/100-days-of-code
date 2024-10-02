@@ -1,5 +1,24 @@
 # 100 Days Of Code - 学習ログ  \[計288.75h\]
 
+### ■ 100日目: 2024年10月2日　[Twitterリンク](https://x.com/kyohei_IT/status/1841491045001179152)
+
+**今日の進捗**　 3.25h
+- React 上級
+  - 今後のフロントエンド開発で必須知識となるReact v18の機能を丁寧に理解する --> 70%
+
+
+**思ったこと**
+- 意識しなくてもAutomatic Batchingでレンダリングがまとまる
+- isLoadingも使いたければuseTransition
+- 子でTransitionするならuseDeferredValue
+- UX向上のためには裏側の仕組み大事ですね🔥
+
+
+<br>
+<hr>
+<br>
+
+
 ### ■ 99日目: 2024年10月1日　[Twitterリンク](https://x.com/kyohei_IT/status/1841191845659103531)
 
 **今日の進捗**　 2.25h
