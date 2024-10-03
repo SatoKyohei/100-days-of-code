@@ -1,4 +1,26 @@
-# 100 Days Of Code - 学習ログ  \[計288.75h\]
+# 100 Days Of Code - 学習ログ  \[計303h\]
+
+### ■ 101日目: 2024年10月3日　[Twitterリンク](https://x.com/kyohei_IT/status/1841850468185866437)
+
+**今日の進捗**　 3.25h
+- React 上級
+  - 今後のフロントエンド開発で必須知識となるReact v18の機能を丁寧に理解する
+- Next v13以降
+  - Next.jsと一緒に学ぶReact講座 --> 10%
+
+
+**思ったこと**
+- CSR, SSRの違い
+- ハイドレーションとはHTMLとJSの紐づけ
+- Next.js, Vercel, GitHub環境構築
+- やっとReact上級終わりました！長かったーー
+- そして気づけば100日超えてた。次の目標は200日！
+
+
+<br>
+<hr>
+<br>
+
 
 ### ■ 100日目: 2024年10月2日　[Twitterリンク](https://x.com/kyohei_IT/status/1841491045001179152)
 
