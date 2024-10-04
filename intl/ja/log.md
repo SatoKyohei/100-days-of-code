@@ -1,4 +1,20 @@
-# 100 Days Of Code - 学習ログ  \[計303h\]
+# 100 Days Of Code - 学習ログ  \[計304.25h\]
+
+### ■ 102日目: 2024年10月4日　[Twitterリンク](https://x.com/kyohei_IT/status/1842216272211443737)
+
+**今日の進捗**　 1.25h
+- Next v13以降
+  - Next.jsと一緒に学ぶReact講座 --> 25%
+
+
+**思ったこと**
+- 久々のGitは良い復習でした！
+
+
+<br>
+<hr>
+<br>
+
 
 ### ■ 101日目: 2024年10月3日　[Twitterリンク](https://x.com/kyohei_IT/status/1841850468185866437)
 
