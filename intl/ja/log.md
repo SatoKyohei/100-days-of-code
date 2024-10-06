@@ -1,4 +1,24 @@
-# 100 Days Of Code - 学習ログ  \[計306h\]
+# 100 Days Of Code - 学習ログ  \[計309h\]
+
+### ■ 104日目: 2024年10月6日　[Twitterリンク](https://x.com/kyohei_IT/status/1842951664917270853)
+
+**今日の進捗**　 3h
+- Next v13以降
+  - Next.jsと一緒に学ぶReact講座
+  - Next.js 13入門 - App Router対応
+  - Todoアプリを作りながらNext.js13の新機能を理解してみよう ~Next.js13入門~ --> 5%
+
+
+**思ったこと**
+- appの下に作成したファイル名でURLが決定される（verによって差異）
+- aタグだとリロードしてしまうからLinkタグを使うのが通常
+- Githubとvercelの連携で自動デプロイできるのがすごく便利！
+
+
+<br>
+<hr>
+<br>
+
 
 ### ■ 103日目: 2024年10月5日　[Twitterリンク](https://x.com/kyohei_IT/status/1842717094510825677)
 
