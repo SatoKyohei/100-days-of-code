@@ -1,14 +1,15 @@
-# 100 Days Of Code - 学習ログ  \[計309h\]
+# 100 Days Of Code - 学習ログ  \[計311h\]
 
-### ■ 105日目: 2024年10月7日　[Twitterリンク]()
+### ■ 105日目: 2024年10月7日　[Twitterリンク](https://x.com/kyohei_IT/status/1843301066773008745)
 
-**今日の進捗**　 105
+**今日の進捗**　 2h
 - Next v13以降
-  - Todoアプリを作りながらNext.js13の新機能を理解してみよう ~Next.js13入門~ --> 5%
+  - Todoアプリを作りながらNext.js13の新機能を理解してみよう ~Next.js13入門~
+  - Next.js14で掲示板Webアプリケーションを作ってみよう【Supabase/react-hook-form/zod/shadcnを利用】 --> 10%
 
 
 **思ったこと**
-- 
+- layout.tsxの変更はappディレクトリ配下の全ページコンポーネントに反映
 
 
 <br>
