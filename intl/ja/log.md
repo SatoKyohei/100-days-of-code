@@ -1,5 +1,21 @@
 # 100 Days Of Code - 学習ログ  \[計311h\]
 
+### ■ 106日目: 2024年10月8日　[Twitterリンク]()
+
+**今日の進捗**　 35
+- Next v13以降
+  - Next.js14で掲示板Webアプリケーションを作ってみよう【Supabase/react-hook-form/zod/shadcnを利用】 --> 10%
+
+
+**思ったこと**
+- 
+
+
+<br>
+<hr>
+<br>
+
+
 ### ■ 105日目: 2024年10月7日　[Twitterリンク](https://x.com/kyohei_IT/status/1843301066773008745)
 
 **今日の進捗**　 2h
