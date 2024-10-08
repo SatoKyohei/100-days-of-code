@@ -1,14 +1,16 @@
-# 100 Days Of Code - 学習ログ  \[計311h\]
+# 100 Days Of Code - 学習ログ  \[計314h\]
 
-### ■ 106日目: 2024年10月8日　[Twitterリンク]()
+### ■ 106日目: 2024年10月8日　[Twitterリンク](https://x.com/kyohei_IT/status/1843797993289593128)
 
-**今日の進捗**　 35
+**今日の進捗**　 3h
 - Next v13以降
-  - Next.js14で掲示板Webアプリケーションを作ってみよう【Supabase/react-hook-form/zod/shadcnを利用】 --> 10%
+  - Next.js14で掲示板Webアプリケーションを作ってみよう【Supabase/react-hook-form/zod/shadcnを利用】 --> 70%
 
 
 **思ったこと**
-- 
+- supabaseと.envファイル準備
+- prismaをインストール→init→migrateでsupabaseと連携（？）
+- supabaseとprismaが初見で正直あまり理解できず。来週入門やるので最低限の理解に留めます
 
 
 <br>
