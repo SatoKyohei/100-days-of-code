@@ -1,4 +1,24 @@
-# 100 Days Of Code - 学習ログ  \[計314h\]
+# 100 Days Of Code - 学習ログ  \[計315h\]
+
+### ■ 107日目: 2024年10月9日　[Twitterリンク](https://x.com/kyohei_IT/status/1844153203715342592)
+
+**今日の進捗**　 1h
+- Next v13以降
+  - Next.js14で掲示板Webアプリケーションを作ってみよう【Supabase/react-hook-form/zod/shadcnを利用】 --> 70%
+
+
+**学んだこと**
+- zodでフォームのバリデーションを作れる？
+- npx shadcn@latest add ~ でコンポーネントをインストール
+
+**思ったこと**
+- 同時に初見の技術4つ(Supabase, zod, shadcn, Prisma)やるの厳しいですね..ここはサクッといきます！
+
+
+<br>
+<hr>
+<br>
+
 
 ### ■ 106日目: 2024年10月8日　[Twitterリンク](https://x.com/kyohei_IT/status/1843797993289593128)
 
