@@ -1,4 +1,26 @@
-# 100 Days Of Code - 学習ログ  \[計315h\]
+# 100 Days Of Code - 学習ログ  \[計317h\]
+
+### ■ 108日目: 2024年10月10日　[Twitterリンク](https://x.com/kyohei_IT/status/1844523881350225931)
+
+**今日の進捗**　 2h
+- Ansible
+  - \[Zenn\] Ansibleの使い方 --> 10%
+- Next v13以降
+  - Next.js14で掲示板Webアプリケーションを作ってみよう【Supabase/react-hook-form/zod/shadcnを利用】 --> 100%
+
+
+**学んだこと**
+- インベントリはchildrenでグループ化
+- http://prisma.post.XXXX でSQL実行
+
+**思ったこと**
+- 業務で使いそうなのでAnsible勉強中。prismaはすこし理解！SQLやっておいてよかったです
+
+
+<br>
+<hr>
+<br>
+
 
 ### ■ 107日目: 2024年10月9日　[Twitterリンク](https://x.com/kyohei_IT/status/1844153203715342592)
 
