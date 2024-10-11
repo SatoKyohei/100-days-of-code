@@ -1,19 +1,18 @@
-# 100 Days Of Code - 学習ログ  \[計317h\]
+# 100 Days Of Code - 学習ログ  \[計320.5h\]
 
-### ■ 109日目: 2024年10月11日　[Twitterリンク]()
+### ■ 109日目: 2024年10月11日　[Twitterリンク](https://x.com/kyohei_IT/status/1844884423122223226)
 
-**今日の進捗**　 205
-- Ansible
-  - \[Zenn\] Ansibleの使い方 --> 10%
+**今日の進捗**　 3.5h
 - Next v13以降
   - 全てがここに！Next.jsとSupabaseで構築する認証システム --> %
 
 
 **学んだこと**
-- 
+- app配下のディレクトリにpage.tsxを作ればディレクトリ名がURLパスになる
+- supabaseとnext.js連携：.env作成⇨npx supabase login⇨init⇨link --project-ref
 
 **思ったこと**
-- 
+- なし
 
 
 <br>
