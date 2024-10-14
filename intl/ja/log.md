@@ -1,4 +1,26 @@
-# 100 Days Of Code - 学習ログ  \[計327.25h\]
+# 100 Days Of Code - 学習ログ  \[計332.75h\]
+
+### ■ 112日目: 2024年10月14日　[Twitterリンク](https://x.com/kyohei_IT/status/1845865100777070918)
+
+**今日の進捗**　 5.5h
+- Next v13以降
+  - 【Next.js13】最新バージョンのNext.js13をマイクロブログ構築しながら基礎と本質を学ぶ講座 --> 90%
+- Prettier復習
+
+
+**学んだこと**
+- SSRのログはターミナルに出力
+- prettierは.prettierrcで実装。.prettierignoreだと除外
+- loading.tsxでローディング実装(error, not-foundなども)
+
+**思ったこと**
+- prettierのおかげで学習効率UP！
+
+
+<br>
+<hr>
+<br>
+
 
 ### ■ 111日目: 2024年10月13日　[Twitterリンク](https://x.com/kyohei_IT/status/1845474461853909189)
 
