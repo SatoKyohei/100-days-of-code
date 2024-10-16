@@ -1,4 +1,30 @@
-# 100 Days Of Code - 学習ログ  \[計334.5h\]
+# 100 Days Of Code - 学習ログ  \[計338.75h\]
+
+### ■ 114日目: 2024年10月16日　[Twitterリンク](https://x.com/kyohei_IT/status/1846569175818604993)
+
+**今日の進捗**　 4.25h
+- Next/Prisma編
+  - 【Prisma入門】次世代ORMで簡単にデータベース管理ができるようになろう ✔︎
+  - Prisma を使った効率的なバックエンド開発ワークフロー ✔︎
+  - 【Supabase入門】Todoアプリを作りながらSupabaseをNext.jsとTypescriptで学んでみよう ✔︎
+  - Next.jsでPrismaとSupabaseを使ってみる　Prisma設定編 --> 90%
+
+
+
+**学んだこと**
+- npx prisma studio でテーブルを確認
+- schema.prisma に model テーブル名 {} でテーブルを定義し、npx prisma migrate dev --name init で migrateするとテーブルが作成される
+- $transaction() の中に任意のCRUD操作を記述することでトランザクション処理になる
+
+
+**思ったこと**
+- 平日だけど4つも進んだ！
+
+
+<br>
+<hr>
+<br>
+
 
 ### ■ 113日目: 2024年10月15日　[Twitterリンク](https://x.com/kyohei_IT/status/1846211402341798273)
 
