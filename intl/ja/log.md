@@ -1,4 +1,30 @@
-# 100 Days Of Code - 学習ログ  \[計338.75h\]
+# 100 Days Of Code - 学習ログ  \[計342.75h\]
+
+### ■ 115日目: 2024年10月17日　[Twitterリンク](https://x.com/kyohei_IT/status/1846932122512306259)
+
+**今日の進捗**　 4h
+- Next/Prisma編
+  - Next.jsでPrismaとSupabaseを使ってみる　Prisma設定編　✅
+  - Next.jsでPrismaとSupabaseを使ってみる　API編　✅
+  - モダンな技術でフルスタックブログ開発をしてみよう【Next.js13/Prisma/Supabase/Typescriptを利用】 --> 60%
+
+
+
+**学んだこと**
+- prisma.$connect と $disconnect でDB接続／切断
+- VSCodeの拡張Postmanが便利
+- migrationの役割はDBやスキーマの変更とバージョン管理
+
+
+**思ったこと**
+- 理解できるわけない！と思ってたNext.js, Prismaも数打てば慣れてくるもんですね...
+- やっとNext.jsも終わりが見えてきて嬉しい。。
+
+
+<br>
+<hr>
+<br>
+
 
 ### ■ 114日目: 2024年10月16日　[Twitterリンク](https://x.com/kyohei_IT/status/1846569175818604993)
 
