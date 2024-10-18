@@ -1,10 +1,10 @@
-# 100 Days Of Code - 学習ログ  \[計342.75h\]
+# 100 Days Of Code - 学習ログ  \[計343.75h\]
 
-### ■ 116日目: 2024年10月18日　[Twitterリンク]()
+### ■ 116日目: 2024年10月18日　[Twitterリンク](https://x.com/kyohei_IT/status/1847295605221249135)
 
-**今日の進捗**　 10
+**今日の進捗**　 1h
 - Next/Prisma編
-  - モダンな技術でフルスタックブログ開発をしてみよう【Next.js13/Prisma/Supabase/Typescriptを利用】 --> 60%
+  - モダンな技術でフルスタックブログ開発をしてみよう【Next.js13/Prisma/Supabase/Typescriptを利用】 --> 90%
 
 
 
@@ -13,7 +13,7 @@
 
 
 **思ったこと**
-- 
+- なし
 
 
 <br>
