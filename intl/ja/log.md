@@ -1,4 +1,26 @@
-# 100 Days Of Code - 学習ログ  \[計343.75h\]
+# 100 Days Of Code - 学習ログ  \[計348.75h\]
+
+### ■ 117日目: 2024年10月19日　[Twitterリンク](https://x.com/kyohei_IT/status/1847792196063559866)
+
+**今日の進捗**　 5h
+- Next/Prisma編
+  - モダンな技術でフルスタックブログ開発をしてみよう【Next.js13/Prisma/Supabase/Typescriptを利用】✅
+  - 電子記事販売WebアプリケーションをNext.jsをフル活用して実践力を身に着けるWeb開発マスター講座 --> 30%
+
+
+
+**学んだこと**
+- vercel：storage - db作成 - .env.localコピーでprismaと連携
+
+
+**思ったこと**
+- 写経したコードをGitHubとVercelにあげるといつでも見返せれて便利でした！
+
+
+<br>
+<hr>
+<br>
+
 
 ### ■ 116日目: 2024年10月18日　[Twitterリンク](https://x.com/kyohei_IT/status/1847295605221249135)
 
