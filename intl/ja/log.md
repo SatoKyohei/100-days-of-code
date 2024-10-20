@@ -1,4 +1,25 @@
-# 100 Days Of Code - 学習ログ  \[計348.75h\]
+# 100 Days Of Code - 学習ログ  \[計353.25h\]
+
+### ■ 118日目: 2024年10月20日　[Twitterリンク](https://x.com/kyohei_IT/status/1848026498567147740)
+
+**今日の進捗**　 6.5h
+- Next/Prisma編
+  - 電子記事販売WebアプリケーションをNext.jsをフル活用して実践力を身に着けるWeb開発マスター講座 --> 75%
+
+
+
+**学んだこと**
+- process.env.NEXT_PUBLIC_SERVICE_DOMAIN! などの!は「null、あるいはundefinedではない」という断言
+
+
+**思ったこと**
+- NextAuth認証やStripeとの連携が難しいけど楽しい！コーディングの参考ネタとしてGithubに保存
+
+
+<br>
+<hr>
+<br>
+
 
 ### ■ 117日目: 2024年10月19日　[Twitterリンク](https://x.com/kyohei_IT/status/1847792196063559866)
 
