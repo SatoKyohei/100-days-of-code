@@ -1,4 +1,26 @@
-# 100 Days Of Code - 学習ログ  \[計353.25h\]
+# 100 Days Of Code - 学習ログ  \[計356h\]
+
+### ■ 119日目: 2024年10月21日　[Twitterリンク](https://x.com/kyohei_IT/status/1848423820220371262)
+
+**今日の進捗**　 2.75h
+- Next/Prisma編
+  - 電子記事販売WebアプリケーションをNext.jsをフル活用して実践力を身に着けるWeb開発マスター講座 
+  - How to Build a Fullstack App with Next.js, Prisma, and PostgreSQL --> 5%
+
+
+**学んだこと**
+- microCMSとVercelはwebhookで自動連携可
+- .envに環境変数まとめるの便利
+
+
+**思ったこと**
+- バグは残りましたが認証・決済システム実装の良い学びになりました
+
+
+<br>
+<hr>
+<br>
+
 
 ### ■ 118日目: 2024年10月20日　[Twitterリンク](https://x.com/kyohei_IT/status/1848026498567147740)
 
