@@ -1,4 +1,24 @@
-# 100 Days Of Code - 学習ログ  \[計356h\]
+# 100 Days Of Code - 学習ログ  \[計358h\]
+
+### ■ 120日目: 2024年10月22日　[Twitterリンク](https://x.com/kyohei_IT/status/1848741686400458917)
+
+**今日の進捗**　 2h
+- Next/Prisma編
+  - How to Build a Fullstack App with Next.js, Prisma, and PostgreSQL --> 40%
+
+
+**学んだこと**
+- vercel env pull .envでvercel側の環境変数を簡単に引っ張ってこれる
+
+
+**思ったこと**
+- なし
+
+
+<br>
+<hr>
+<br>
+
 
 ### ■ 119日目: 2024年10月21日　[Twitterリンク](https://x.com/kyohei_IT/status/1848423820220371262)
 
