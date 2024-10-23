@@ -1,4 +1,4 @@
-# 100 Days Of Code - 学習ログ  \[計362h\]
+# 100 Days Of Code - 学習ログ  \[計364h\]
 
 ### ■ 121日目: 2024年10月23日　[Twitterリンク](https://x.com/kyohei_IT/status/1849119678402384278)
 
