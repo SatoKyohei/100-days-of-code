@@ -1,4 +1,26 @@
-# 100 Days Of Code - 学習ログ  \[計358h\]
+# 100 Days Of Code - 学習ログ  \[計362h\]
+
+### ■ 121日目: 2024年10月23日　[Twitterリンク](https://x.com/kyohei_IT/status/1849117544453681332)
+
+**今日の進捗**　 4h
+- Next/Prisma編
+  - How to Build a Fullstack App with Next.js, Prisma, and PostgreSQL ✔︎
+  - Nextjs/Prismaを使ってフルスタックTodoアプリを作成しよう -->10%
+
+
+**学んだこと**
+- Material UI のstyleはsx={{}}で指定
+- flex-directionは縦並びか横並びかを指定
+
+
+**思ったこと**
+- 完全に自力で作るのはまだ2回目ですが意外と出だしはよさげ！ちゃんと身についててよかった…
+
+
+<br>
+<hr>
+<br>
+
 
 ### ■ 120日目: 2024年10月22日　[Twitterリンク](https://x.com/kyohei_IT/status/1848741686400458917)
 
