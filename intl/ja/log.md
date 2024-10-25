@@ -1,4 +1,25 @@
-# 100 Days Of Code - 学習ログ  \[計364h\]
+# 100 Days Of Code - 学習ログ  \[計365.25h\]
+
+### ■ 122日目: 2024年10月24日　[Twitterリンク](https://x.com/kyohei_IT/status/1849608323043352943)
+
+**今日の進捗**　 1.25h
+- Next/Prisma編
+  - Nextjs/Prismaを使ってフルスタックTodoアプリを作成しよう -->10%
+
+
+**学んだこと**
+- <Stack>のdirection="row", spacing, useFlexGap で簡単にflexboxが実現可
+
+
+
+**思ったこと**
+- なんかそれっぽくなってきました！2段目以降のwidthがおかしいのを修正しないと。
+
+
+<br>
+<hr>
+<br>
+
 
 ### ■ 121日目: 2024年10月23日　[Twitterリンク](https://x.com/kyohei_IT/status/1849119678402384278)
 
