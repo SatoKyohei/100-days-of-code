@@ -1,5 +1,26 @@
 # 100 Days Of Code - 学習ログ  \[計374.75h\]
 
+### ■ 124日目: 2024年10月26日　[Twitterリンク](https://x.com/kyohei_IT/status/1850374333245612255)
+
+**今日の進捗**　 4h
+- Next/Prisma編
+  - Nextjs/Prismaを使ってフルスタックTodoアプリを作成しよう 70%
+
+
+**学んだこと**
+- あるけど書き忘れた
+
+
+**思ったこと**
+- prismaとsupabaseのpostgresを連携してGETとPOSTまで実装できました！確実に身についてる...！
+- あと編集機能と認証を実装してstyle整えたら一旦この課題は終わりにしよっかな
+
+
+<br>
+<hr>
+<br>
+
+
 ### ■ 123日目: 2024年10月25日　[Twitterリンク](https://x.com/kyohei_IT/status/1849864087678935370)
 
 **今日の進捗**　 9.5h
