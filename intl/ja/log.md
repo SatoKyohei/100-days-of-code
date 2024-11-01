@@ -1,4 +1,27 @@
-# 100 Days Of Code - 学習ログ  \[計384h\]
+# 100 Days Of Code - 学習ログ  \[計38５h\]
+
+### ■ 129日目: 2024年10月31日　[Twitterリンク](https://x.com/kyohei_IT/status/1852146810665734237)
+
+**今日の進捗**　 
+- SQL初級編
+  - sqlzoo ⇨ 20%
+- Ansible
+
+
+**学んだこと**
+- ansible_userで接続先ユーザー指定
+- ansibe-playbook に --ask-become-pass で sudo PWを指定可
+
+
+
+**思ったこと**
+- 業務でAnsible使うことになったので学習！
+
+
+<br>
+<hr>
+<br>
+
 
 ### ■ 128日目: 2024年10月30日　[Twitterリンク](https://x.com/kyohei_IT/status/1851640534852567069)
 
