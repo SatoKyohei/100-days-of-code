@@ -1,4 +1,30 @@
-# 100 Days Of Code - 学習ログ  \[計392.25h\]
+# 100 Days Of Code - 学習ログ  \[計395.75h\]
+
+### ■ 133日目: 2024年11月4日　[Twitterリンク](https://x.com/kyohei_IT/status/1853453786632908828)
+
+**今日の進捗**　 3.5h
+- SQL初級編
+  - テーブル設計の考え方とやり方 \[入門編\] ⇨ 100%
+  - 【22日間で学ぶ】SQL文、分析関数、テーブル設計、SQLチューニングまでMySQLで覚えるSQL実践講座 ⇨ 30%
+  - SQL中級編（SQLab） ⇨ 100%
+  - DVD Rental データベースを使ったサブクエリ、トランザクション ⇨ 100%
+
+
+**学んだこと**
+- SQLの様々な関数：substring, trim, to_char, concat, coalesce, length
+- 共有/排他ロック：for share, for update
+
+
+
+**思ったこと**
+- 「テーブル設計」のみにフォーカスを当て、別の教材で基礎の基礎から学ぶ必要がありそう。
+
+
+
+<br>
+<hr>
+<br>
+
 
 ### ■ 132日目: 2024年11月3日　[Twitterリンク](https://x.com/kyohei_IT/status/1853232250592403660)
 
