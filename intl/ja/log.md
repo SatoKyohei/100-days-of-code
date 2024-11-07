@@ -1,4 +1,29 @@
-# 100 Days Of Code - 学習ログ  \[計400.25h\]
+# 100 Days Of Code - 学習ログ  \[計403h\]
+
+### ■ 136日目: 2024年11月7日　[Twitterリンク](https://x.com/kyohei_IT/status/1854543311346016262)
+
+**今日の進捗**　 2.75h
+- Node.js/Express編/初級
+  - Node.jsⅤ(学習コース) ⇨ 100%
+  - Node.jsⅤI(学習コース) ⇨ 100%
+  - REST WebAPI サービス 設計 ⇨ 10%
+
+
+**学んだこと**
+- requestからの値取り出し：req.params.xx, req.body.xx, req.session.xx
+- app.メソッド((req, res, next) => {})でnextを実行すると次のミドルウェア関数の処理に移行
+- bcrypt.hash()でpasswordをハッシュ化
+
+
+**思ったこと**
+- Next.jsやってたおかげですんなり理解できました
+
+
+
+<br>
+<hr>
+<br>
+
 
 ### ■ 135日目: 2024年11月6日　[Twitterリンク](https://x.com/kyohei_IT/status/1854191724652040404)
 
