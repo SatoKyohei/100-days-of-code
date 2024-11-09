@@ -1,4 +1,25 @@
-# 100 Days Of Code - 学習ログ  \[計404.75h\]
+# 100 Days Of Code - 学習ログ  \[計406.25h\]
+
+### ■ 138日目: 2024年11月9日　[Twitterリンク](https://x.com/kyohei_IT/status/1855271374513963010)
+
+**今日の進捗**　 1.5h
+- Node.js/Express編/初級
+  - REST WebAPI サービス 設計 ⇨ 80%
+
+
+**学んだこと**
+- swaggerはRESTの仕様書を作れるツール。fastapiだと自動生成してくれるが、expressとかNext.jsなどでは自動生成できないかも？
+
+
+**思ったこと**
+- 少し体調悪く、土曜で1.5hしかできなかったの久々です...切り替えてゆく！
+
+
+
+<br>
+<hr>
+<br>
+
 
 ### ■ 137日目: 2024年11月8日　[Twitterリンク](https://x.com/kyohei_IT/status/1854940448277803268)
 
