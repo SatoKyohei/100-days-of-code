@@ -1,4 +1,26 @@
-# 100 Days Of Code - 学習ログ  \[計406.25h\]
+# 100 Days Of Code - 学習ログ  \[計408.75h\]
+
+### ■ 139日目: 2024年11月10日　[Twitterリンク](https://x.com/kyohei_IT/status/1855768782872191071)
+
+**今日の進捗**　 2.5h
+- Node.js/Express編/初級
+  - REST WebAPI サービス 設計 ⇨ 100%
+  - expressで作るHTTPサーバ – 入門編 ⇨ 5%
+
+
+**学んだこと**
+- openapi：componentsでコンポーネント化。$ref:"#/"で呼び出し
+
+
+**思ったこと**
+- 半分くらいは理解できたので周回せず別の教材で補完していきます
+
+
+
+<br>
+<hr>
+<br>
+
 
 ### ■ 138日目: 2024年11月9日　[Twitterリンク](https://x.com/kyohei_IT/status/1855271374513963010)
 
