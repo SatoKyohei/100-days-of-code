@@ -1,4 +1,27 @@
-# 100 Days Of Code - 学習ログ  \[計408.75h\]
+# 100 Days Of Code - 学習ログ  \[計411.25h\]
+
+### ■ 140日目: 2024年11月11日　[Twitterリンク](https://x.com/kyohei_IT/status/1855999119019626980)
+
+**今日の進捗**　 2.5h
+- Node.js/Express編/初級
+  - expressで作るHTTPサーバ – 入門編 ⇨ 100%
+  - Node.jsとExpressでWeb APIを作ってみよう ⇨ 100%
+
+
+**学んだこと**
+- /path/:idのようにurlに渡す個別の値をパスパラメータという
+- UUIDのインポートの仕方が変わっていた。const { v4: uuidv4 } = require("uuid");
+
+
+**思ったこと**
+- Next.js経験したおかげでexpressはすんなり理解できてます✌️
+
+
+
+<br>
+<hr>
+<br>
+
 
 ### ■ 139日目: 2024年11月10日　[Twitterリンク](https://x.com/kyohei_IT/status/1855768782872191071)
 
