@@ -1,4 +1,26 @@
-# 100 Days Of Code - 学習ログ  \[計411.25h\]
+# 100 Days Of Code - 学習ログ  \[計413.25h\]
+
+### ■ 141日目: 2024年11月12日　[Twitterリンク](https://x.com/kyohei_IT/status/1856357198752034941)
+
+**今日の進捗**　 2h
+- Node.js/Express編/初級
+  - 初めてのREST API【Re:ゼロから始めるWeb API入門実践編#1】 ⇨ 80%
+
+
+**学んだこと**
+- なし
+
+
+**思ったこと**
+- 古い教材だからかもですが、getElementbyIdとかhtml用意するとか即時関数とかは今は使わないような気がしました
+- Reactの方が楽そうな箇所がちらほら👀
+- バックエンドの勉強と割り切る！
+
+
+<br>
+<hr>
+<br>
+
 
 ### ■ 140日目: 2024年11月11日　[Twitterリンク](https://x.com/kyohei_IT/status/1855999119019626980)
 
@@ -6,6 +28,7 @@
 - Node.js/Express編/初級
   - expressで作るHTTPサーバ – 入門編 ⇨ 100%
   - Node.jsとExpressでWeb APIを作ってみよう ⇨ 100%
+  - 初めてのREST API【Re:ゼロから始めるWeb API入門実践編#1】 ⇨ 40%
 
 
 **学んだこと**
