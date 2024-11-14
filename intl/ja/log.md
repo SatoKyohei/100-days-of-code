@@ -1,4 +1,25 @@
-# 100 Days Of Code - 学習ログ  \[計414.25h\]
+# 100 Days Of Code - 学習ログ  \[計415.25h\]
+
+### ■ 143日目: 2024年11月14日　[Twitterリンク](https://x.com/kyohei_IT/status/1857086549818548374)
+
+**今日の進捗**　 1h
+- Node.js/Express編/初級
+  - サルでも分かるExpressでのjsonAPIサーバーの作り方 ⇨ 50%
+  - ローカルでExpress+Sequelize+SQLiteでバックエンドAPIを作る ⇨ 10%
+
+
+**学んだこと**
+- const router = require(apiのパス) して app.use(apiのパス, router)で任意のapiを読み込み
+
+
+**思ったこと**
+- 色んな記事をもとにトラシューしてみましたが、どうしてもmongodがcommand not found になってしまう。。。
+
+
+<br>
+<hr>
+<br>
+
 
 ### ■ 142日目: 2024年11月13日　[Twitterリンク](https://x.com/kyohei_IT/status/1856735559357796495)
 
