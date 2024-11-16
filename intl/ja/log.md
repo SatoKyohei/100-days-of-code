@@ -1,4 +1,25 @@
-# 100 Days Of Code - 学習ログ  \[計415.25h\]
+# 100 Days Of Code - 学習ログ  \[計416.75h\]
+
+### ■ 144日目: 2024年11月15日　[Twitterリンク](https://x.com/kyohei_IT/status/1857572802666311736)
+
+**今日の進捗**　 1.5h
+- Node.js/Express編/初級
+  - サルでも分かるExpressでのjsonAPIサーバーの作り方 ⇨ 50%
+
+
+**学んだこと**
+- npmだけじゃなくbrewでインストールしないとmongodbは動かない
+
+
+**思ったこと**
+- mongodbの起動ができず調べまくってやっと解決しましたが、今度はInsertがうまくいかずMongoDB connection error...
+- 数時間溶けてるのでそろそろメンターに頼ろっかな...😭
+
+
+<br>
+<hr>
+<br>
+
 
 ### ■ 143日目: 2024年11月14日　[Twitterリンク](https://x.com/kyohei_IT/status/1857086549818548374)
 
