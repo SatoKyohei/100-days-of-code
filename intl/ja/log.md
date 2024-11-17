@@ -1,4 +1,25 @@
-# 100 Days Of Code - 学習ログ  \[計416.75h\]
+# 100 Days Of Code - 学習ログ  \[計421.5h\]
+
+### ■ 145日目: 2024年11月16日　[Twitterリンク](https://x.com/kyohei_IT/status/1857939509348016521)
+
+**今日の進捗**　 4.75h
+- Node.js/Express編/初級
+  - サルでも分かるExpressでのjsonAPIサーバーの作り方 ⇨ 100%
+
+
+**学んだこと**
+- const router = require('./routes/v1/'); で任意のディレクトリをルーターとして指定可
+
+
+
+**思ったこと**
+- エラーにハマり1記事にとんでもない時間かけてしまいました….早く取り戻さないと！
+
+
+<br>
+<hr>
+<br>
+
 
 ### ■ 144日目: 2024年11月15日　[Twitterリンク](https://x.com/kyohei_IT/status/1857572802666311736)
 
