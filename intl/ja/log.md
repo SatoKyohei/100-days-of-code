@@ -1,4 +1,29 @@
-# 100 Days Of Code - 学習ログ  \[計421.5h\]
+# 100 Days Of Code - 学習ログ  \[計423.5h\]
+
+
+### ■ 146日目: 2024年11月17日　[Twitterリンク](https://x.com/kyohei_IT/status/1858304125211201713)
+
+**今日の進捗**　 2h
+- Node.js/Express編/初級
+  - サルでも分かるExpressでのjsonAPIサーバーの作り方 ⇨ 100%（見直しとGitにアップ）
+  - ローカルでExpress+Sequelize+SQLiteでバックエンドAPIを作る ⇨ 70%
+
+
+**学んだこと**
+- module.exportsでエクスポート
+- .use(パス, require(ルーター))でルーターを読み込みパスも決めれる
+
+
+
+**思ったこと**
+- sequelizeは初見👀 ORMってPrisma以外にもいっぱいありますな
+
+
+
+<br>
+<hr>
+<br>
+
 
 ### ■ 145日目: 2024年11月16日　[Twitterリンク](https://x.com/kyohei_IT/status/1857939509348016521)
 
