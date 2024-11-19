@@ -1,4 +1,26 @@
-# 100 Days Of Code - 学習ログ  \[計425.5h\]
+# 100 Days Of Code - 学習ログ  \[計427.5h\]
+
+### ■ 148日目: 2024年11月19日　[Twitterリンク](https://x.com/kyohei_IT/status/1858902193749062018)
+
+**今日の進捗**　 2h
+- Node.js/Express編/初級
+  - Node.js + Express 4.x + MongoDB(Mongoose)でRESTfulなjsonAPIサーバの作成を丁寧に解説する．+ テストクライアントを用いたAPIテストまで ⇨ 100%
+
+
+**学んだこと**
+- app.use(express.static(path.join(__dirname, 'public')));でクライアントからpublicフォルダ内のファイルにアクセス可能
+
+
+
+**思ったこと**
+- dockerでMySQLデプロイしてExpressサーバとSequelizeとの連携成功です✌
+
+
+
+<br>
+<hr>
+<br>
+
 
 ### ■ 147日目: 2024年11月18日　[Twitterリンク](https://x.com/kyohei_IT/status/1858552595914391857)
 
