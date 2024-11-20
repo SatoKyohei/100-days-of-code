@@ -1,4 +1,28 @@
-# 100 Days Of Code - 学習ログ  \[計427.5h\]
+# 100 Days Of Code - 学習ログ  \[計428.75h\]
+
+### ■ 149日目: 2024年11月20日　[Twitterリンク](https://x.com/kyohei_IT/status/1859276519383892457)
+
+**今日の進捗**　 1.25h
+- Node.js/Express編/初級
+  - Node.js + Express + Socket.ioで簡易チャットを作ってみる ⇨ 100%
+  - Node.js＋Express＋Passport を使ってみた ⇨ 30%
+
+
+**学んだこと**
+- socketioのonが受信でemitが送信
+- websocketは双方向でリアルタイム通信を行うためのプロトコル
+
+
+
+**思ったこと**
+- なし
+
+
+
+<br>
+<hr>
+<br>
+
 
 ### ■ 148日目: 2024年11月19日　[Twitterリンク](https://x.com/kyohei_IT/status/1858902193749062018)
 
