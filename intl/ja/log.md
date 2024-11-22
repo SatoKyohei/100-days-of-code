@@ -1,4 +1,30 @@
-# 100 Days Of Code - 学習ログ  \[計433h\]
+# 100 Days Of Code - 学習ログ  \[計436.25h\]
+
+### ■ 151日目: 2024年11月22日　[Twitterリンク](https://x.com/kyohei_IT/status/1859984174565990477)
+
+**今日の進捗**   191
+- Node.js/Express編/初級
+  - node.js/expressでユーザ認証with JWT ⇨ 100%
+  - Node.js + Express 4.x + MongoDB(Mongoose)でRESTfulなjsonAPIサーバの作成を丁寧に解説する．+ テストクライアントを用いたAPIテストまで ⇨ 100%
+
+
+**学んだこと**
+- MongoDBコンテナへのアクセス
+  1. docker exec -it mongodb bash
+  2. mongosh --username xxx --password xxx --authenticationDatabase admin
+- JWTのpayloadは、toObject()メソッドをつけてプレーンなオブジェクトにする必要がある
+
+
+
+**思ったこと**
+- なし
+
+
+
+<br>
+<hr>
+<br>
+
 
 ### ■ 150日目: 2024年11月21日　[Twitterリンク](https://x.com/kyohei_IT/status/1859738638327914683)
 
