@@ -1,4 +1,27 @@
-# 100 Days Of Code - 学習ログ  \[計436.25h\]
+# 100 Days Of Code - 学習ログ  \[計439.25h\]
+
+### ■ 152日目: 2024年11月23日　[Twitterリンク](https://x.com/kyohei_IT/status/1860357280899928162)
+
+**今日の進捗**   175
+- Node.js/Express編/初級
+  - Express Web フレームワーク (Node.js/JavaScript) ⇨ 50%
+
+
+**学んだこと**
+- next()で次のルートハンドラーやミドルウェアの処理に進む
+- mongoose.Promise = global.Promise;はmongooseに対し「Node.js標準のプロミスを使って」と指示している
+
+
+
+**思ったこと**
+- nodemon便利
+
+
+
+<br>
+<hr>
+<br>
+
 
 ### ■ 151日目: 2024年11月22日　[Twitterリンク](https://x.com/kyohei_IT/status/1859984174565990477)
 
