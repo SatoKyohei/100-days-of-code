@@ -1,4 +1,26 @@
-# 100 Days Of Code - 学習ログ  \[計439.25h\]
+# 100 Days Of Code - 学習ログ  \[計440.25h\]
+
+### ■ 153日目: 2024年11月24日　[Twitterリンク](https://x.com/kyohei_IT/status/1860714364178948203)
+
+**今日の進捗**   1h
+- Node.js/Express編/初級
+  - Express Web フレームワーク (Node.js/JavaScript) ⇨ 50%
+
+
+**学んだこと**
+- thisはインスタンス自身を表す
+
+
+
+**思ったこと**
+- 
+
+
+
+<br>
+<hr>
+<br>
+
 
 ### ■ 152日目: 2024年11月23日　[Twitterリンク](https://x.com/kyohei_IT/status/1860357280899928162)
 
