@@ -1,4 +1,28 @@
-# 100 Days Of Code - 学習ログ  \[計441h(26473m)\]
+# 100 Days Of Code - 学習ログ  \[計443h(26593m)\]
+
+### ■ 155日目: 2024年11月26日　[Twitterリンク](https://x.com/kyohei_IT/status/1861446601807667686)
+
+**今日の進捗**   120
+- Node.js/Express編/初級
+  - Express Web フレームワーク (Node.js/JavaScript) ⇨ 100%
+  - Node.js + Express + MySQL で作る 安全な Webアプリケーション 実践講座 ⇨ 15%
+
+
+**学んだこと**
+- なし
+
+
+
+**思ったこと**
+- MongoDBやejs、pugなど、現場であまり使われない技術の学習ばかりで、且つ記事が2014~2018年のものばかりで参考にならない。正直不満。
+- Node.js/Expressのカリキュラム改善してほしい。この記事はもうやらない。
+
+
+
+<br>
+<hr>
+<br>
+
 
 ### ■ 154日目: 2024年11月25日　[Twitterリンク](https://x.com/kyohei_IT/status/1861196138692653172)
 
