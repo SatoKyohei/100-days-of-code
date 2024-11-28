@@ -1,4 +1,26 @@
-# 100 Days Of Code - 学習ログ  \[計443h(26593m)\]
+# 100 Days Of Code - 学習ログ  \[計444h(26643m)\]
+
+### ■ 156日目: 2024年11月27日　[Twitterリンク](https://x.com/kyohei_IT/status/1861967476889932186)
+
+**今日の進捗**   60
+- Node.js/Express編/初級
+  - Node.js + Express + MySQL で作る 安全な Webアプリケーション 実践講座 ⇨ 25%
+
+
+**学んだこと**
+- npx eslint --initで初期化
+
+
+
+**思ったこと**
+- なし
+
+
+
+<br>
+<hr>
+<br>
+
 
 ### ■ 155日目: 2024年11月26日　[Twitterリンク](https://x.com/kyohei_IT/status/1861446601807667686)
 
