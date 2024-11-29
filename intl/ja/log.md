@@ -1,4 +1,26 @@
-# 100 Days Of Code - 学習ログ  \[計444h(26643m)\]
+# 100 Days Of Code - 学習ログ  \[計445h(26703m)\]
+
+### ■ 157日目: 2024年11月28日　[Twitterリンク](https://x.com/kyohei_IT/status/1862297246227980331)
+
+**今日の進捗**   60
+- Node.js/Express編/初級
+  - Node.js + Express + MySQL で作る 安全な Webアプリケーション 実践講座 ⇨ 35%
+
+
+**学んだこと**
+- Emmet
+
+
+
+**思ったこと**
+- Emmet記法初めて知りました！ReactがあるからそこまでたくさんHTML書くことはないけど便利そう✌️
+
+
+
+<br>
+<hr>
+<br>
+
 
 ### ■ 156日目: 2024年11月27日　[Twitterリンク](https://x.com/kyohei_IT/status/1861967476889932186)
 
