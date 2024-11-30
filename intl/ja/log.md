@@ -1,4 +1,27 @@
-# 100 Days Of Code - 学習ログ  \[計445h(26703m)\]
+# 100 Days Of Code - 学習ログ  \[計447h(26843m)\]
+
+### ■ 158日目: 2024年11月29日　[Twitterリンク](https://x.com/kyohei_IT/status/1862684432869859674)
+
+**今日の進捗**   140
+- Node.js/Express編/初級
+  - Node.js + Express + MySQL で作る 安全な Webアプリケーション 実践講座 ⇨ 55%
+
+
+**学んだこと**
+- log4js.config.jsでdaysToKeepは現在非推奨。numBackupsを使うと警告が消える
+- 接続はdocker exec -it mysql mysql -uroot -p
+
+
+
+**思ったこと**
+- dockerでDB立てるの本当ラク✌️
+
+
+
+<br>
+<hr>
+<br>
+
 
 ### ■ 157日目: 2024年11月28日　[Twitterリンク](https://x.com/kyohei_IT/status/1862297246227980331)
 
