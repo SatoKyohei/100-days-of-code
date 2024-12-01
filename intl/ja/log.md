@@ -1,4 +1,27 @@
-# 100 Days Of Code - 学習ログ  \[計447h(26843m)\]
+# 100 Days Of Code - 学習ログ  \[計448h(26948m)\]
+
+### ■ 159日目: 2024年11月30日　[Twitterリンク]()
+
+**今日の進捗**   105
+- Node.js/Express編/初級
+  - Node.js + Express + MySQL で作る 安全な Webアプリケーション 実践講座 ⇨ 55%
+
+
+**学んだこと**
+- log4jsのdaysToKeepは現在非推奨。numBackupsを使うと警告が消える
+- mysqlの認証方式がmysql_native_passwordからcaching_sha2_passwordに変更になったため、node.jsからの接続にはmysql2を使用
+
+
+
+**思ったこと**
+- 体調崩したので失速するかもです😷
+
+
+
+<br>
+<hr>
+<br>
+
 
 ### ■ 158日目: 2024年11月29日　[Twitterリンク](https://x.com/kyohei_IT/status/1862684432869859674)
 
