@@ -4,7 +4,7 @@
 
 **今日の進捗**   105
 - Node.js/Express編/初級
-  - Node.js + Express + MySQL で作る 安全な Webアプリケーション 実践講座 ⇨ 55%
+  - Node.js + Express + MySQL で作る 安全な Webアプリケーション 実践講座 ⇨ 65%
 
 
 **学んだこと**
