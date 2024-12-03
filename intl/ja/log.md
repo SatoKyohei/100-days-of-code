@@ -1,4 +1,25 @@
-# 100 Days Of Code - 学習ログ  \[計453h(27248m)\]
+# 100 Days Of Code - 学習ログ  \[計455h(27370m)\]
+
+### ■ 162日目: 2024年12月3日　[Twitterリンク](https://x.com/kyohei_IT/status/1863979675980272070)
+
+**今日の進捗**   122
+- Node.js/Express編/初級
+  - Node.js + Express + MySQL で作る 安全な Webアプリケーション 実践講座 ⇨ 80%
+
+
+**学んだこと**
+- cookie-parserでcookieの取り出し、あるいは書き込みが可能
+
+
+**思ったこと**
+- このUdemyも80動画ほど終わり、残すとこ約50動画...🔥
+
+
+
+<br>
+<hr>
+<br>
+
 
 ### ■ 161日目: 2024年12月2日　[Twitterリンク](https://x.com/kyohei_IT/status/1863607395857097118)
 
