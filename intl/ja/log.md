@@ -1,4 +1,25 @@
-# 100 Days Of Code - 学習ログ  \[計460h(27680m)\]
+# 100 Days Of Code - 学習ログ  \[計463h(27855m)\]
+
+### ■ 165日目: 2024年12月6日　[Twitterリンク](https://x.com/kyohei_IT/status/1865065167622738066)
+
+**今日の進捗**   175
+- Node.js/Express編/初級
+  - Node.js + Express + MySQL で作る 安全な Webアプリケーション 実践講座 ⇨ 90%
+
+
+**学んだこと**
+- 非同期関数には、Promiseを返すもの（例：fetch）とそうでないもの（例：setTimeout）が存在
+- 後者をasync/awaitで使うにはPromiseでラップする必要がある
+
+
+**思ったこと**
+- Udemyやっと全て視聴..理解度低いのであと数時間見直します🫡
+
+
+<br>
+<hr>
+<br>
+
 
 ### ■ 164日目: 2024年12月5日　[Twitterリンク](https://x.com/kyohei_IT/status/1864701077087769038)
 
