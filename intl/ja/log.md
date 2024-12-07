@@ -1,4 +1,24 @@
-# 100 Days Of Code - 学習ログ  \[計463h(27855m)\]
+# 100 Days Of Code - 学習ログ  \[計467h(28100m)\]
+
+### ■ 166日目: 2024年12月7日　[Twitterリンク](https://x.com/kyohei_IT/status/1865535974358614252)
+
+**今日の進捗**   245
+- Node.js/Express編/初級
+  - Node.js + Express + MySQL で作る 安全な Webアプリケーション 実践講座 ⇨ 100%
+
+
+**学んだこと**
+- isNaN：NaNかどうか、parseFloat：浮動少数にパース、roundTo：少数を丸める、toPrecision：出力桁数を指定、moment：日付操作
+
+
+**思ったこと**
+- 写経したコード読み直し中。途中Notionのまとめに終始したのでもう少し続きます😭
+
+
+<br>
+<hr>
+<br>
+
 
 ### ■ 165日目: 2024年12月6日　[Twitterリンク](https://x.com/kyohei_IT/status/1865065167622738066)
 
