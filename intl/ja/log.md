@@ -1,4 +1,27 @@
-# 100 Days Of Code - 学習ログ  \[計467h(28100m)\]
+# 100 Days Of Code - 学習ログ  \[計470h(28270m)\]
+
+### ■ 167日目: 2024年12月8日　[Twitterリンク](https://x.com/kyohei_IT/status/1865813128753336698)
+
+**今日の進捗**   170
+- Node.js/Express編/初級
+  - Node.js + Express + MySQL で作る 安全な Webアプリケーション 実践講座 ⇨ 100%
+- Docker編
+  - 実践 Docker - ソフトウェアエンジニアの「Docker よくわからない」を終わりにする本
+
+
+**学んだこと**
+- \[moment\]isSameOrBefore()：以前かどうか、add()：時刻を追加
+- \[passport\]initialize()：初期化、session()：有効化
+
+
+**思ったこと**
+- Udemy完！ここからはモダンな技術しかないので楽しい確定です✌️
+
+
+<br>
+<hr>
+<br>
+
 
 ### ■ 166日目: 2024年12月7日　[Twitterリンク](https://x.com/kyohei_IT/status/1865535974358614252)
 
