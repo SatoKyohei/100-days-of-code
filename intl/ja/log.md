@@ -1,10 +1,30 @@
-# 100 Days Of Code - 学習ログ  \[計475h(28495m)\]
+# 100 Days Of Code - 学習ログ  \[計477h(28645m)\]
+
+### ■ 169日目: 2024年12月10日　[Twitterリンク](https://x.com/kyohei_IT/status/1866516796360306751)
+
+**今日の進捗**   160
+- Docker編
+  - 実践 Docker - ソフトウェアエンジニアの「Docker よくわからない」を終わりにする本 ⇨ 100%
+
+
+**学んだこと**
+- docker-compose.yml：version, services, networks, volumesの大項目で構成
+
+
+**思ったこと**
+- なし
+
+
+<br>
+<hr>
+<br>
+
 
 ### ■ 168日目: 2024年12月9日　[Twitterリンク](https://x.com/kyohei_IT/status/1866152302127829033)
 
 **今日の進捗**   225
 - Docker編
-  - 実践 Docker - ソフトウェアエンジニアの「Docker よくわからない」を終わりにする本
+  - 実践 Docker - ソフトウェアエンジニアの「Docker よくわからない」を終わりにする本 ⇨ 80%
 
 
 **学んだこと**
