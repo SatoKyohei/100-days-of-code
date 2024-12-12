@@ -1,4 +1,25 @@
-# 100 Days Of Code - 学習ログ  \[計480h(28855m)\]
+# 100 Days Of Code - 学習ログ  \[計484h(29075m)\]
+
+### ■ 171日目: 2024年12月12日　[Twitterリンク](https://x.com/kyohei_IT/status/1867253689460961416)
+
+**今日の進捗**   220
+- AWS編
+  - ECSでExpressをデプロイしてみた ⇨ 90%
+
+
+**学んだこと**
+- node.js x Express x Typescriptの環境構築
+- ECSの実行時のアーキテクチャに注意
+
+
+**思ったこと**
+- 久々AWSに触りましたが、ECSのデプロイエラーを解消できず...うーむ😭
+
+
+<br>
+<hr>
+<br>
+
 
 ### ■ 170日目: 2024年12月11日　[Twitterリンク](https://x.com/kyohei_IT/status/1866998072439607415)
 
@@ -447,7 +468,7 @@
 
 ### ■ 150日目: 2024年11月21日　[Twitterリンク](https://x.com/kyohei_IT/status/1859738638327914683)
 
-**今日の進捗  82
+**今日の進捗**  82
 - Node.js/Express編/初級
   - Node.js＋Express＋Passport を使ってみた ⇨ 100%
   - node.js/expressでユーザ認証with JWT ⇨ 50%
@@ -471,7 +492,7 @@
 
 ### ■ 149日目: 2024年11月20日　[Twitterリンク](https://x.com/kyohei_IT/status/1859276519383892457)
 
-**今日の進捗  75
+**今日の進捗**  75
 - Node.js/Express編/初級
   - Node.js + Express + Socket.ioで簡易チャットを作ってみる ⇨ 100%
   - Node.js＋Express＋Passport を使ってみた ⇨ 30%
@@ -495,7 +516,7 @@
 
 ### ■ 148日目: 2024年11月19日　[Twitterリンク](https://x.com/kyohei_IT/status/1858902193749062018)
 
-**今日の進捗  120
+**今日の進捗**  120
 - Node.js/Express編/初級
   - Node.js + Express 4.x + MongoDB(Mongoose)でRESTfulなjsonAPIサーバの作成を丁寧に解説する．+ テストクライアントを用いたAPIテストまで ⇨ 100%
 
@@ -517,7 +538,7 @@
 
 ### ■ 147日目: 2024年11月18日　[Twitterリンク](https://x.com/kyohei_IT/status/1858552595914391857)
 
-**今日の進捗  120
+**今日の進捗**  120
 - Node.js/Express編/初級
   - ローカルでExpress+Sequelize+SQLiteでバックエンドAPIを作る ⇨ 100%
   - Node.js + Express 4.x + MongoDB(Mongoose)でRESTfulなjsonAPIサーバの作成を丁寧に解説する．+ テストクライアントを用いたAPIテストまで ⇨ 50%
@@ -540,7 +561,7 @@
 
 ### ■ 146日目: 2024年11月17日　[Twitterリンク](https://x.com/kyohei_IT/status/1858304125211201713)
 
-**今日の進捗  120
+**今日の進捗**  120
 - Node.js/Express編/初級
   - サルでも分かるExpressでのjsonAPIサーバーの作り方 ⇨ 100%（見直しとGitにアップ）
   - ローカルでExpress+Sequelize+SQLiteでバックエンドAPIを作る ⇨ 70%
@@ -564,7 +585,7 @@
 
 ### ■ 145日目: 2024年11月16日　[Twitterリンク](https://x.com/kyohei_IT/status/1857939509348016521)
 
-**今日の進捗  285
+**今日の進捗**  285
 - Node.js/Express編/初級
   - サルでも分かるExpressでのjsonAPIサーバーの作り方 ⇨ 100%
 
@@ -585,7 +606,7 @@
 
 ### ■ 144日目: 2024年11月15日　[Twitterリンク](https://x.com/kyohei_IT/status/1857572802666311736)
 
-**今日の進捗  90
+**今日の進捗**  90
 - Node.js/Express編/初級
   - サルでも分かるExpressでのjsonAPIサーバーの作り方 ⇨ 50%
 
@@ -606,7 +627,7 @@
 
 ### ■ 143日目: 2024年11月14日　[Twitterリンク](https://x.com/kyohei_IT/status/1857086549818548374)
 
-**今日の進捗  60
+**今日の進捗**  60
 - Node.js/Express編/初級
   - サルでも分かるExpressでのjsonAPIサーバーの作り方 ⇨ 50%
   - ローカルでExpress+Sequelize+SQLiteでバックエンドAPIを作る ⇨ 10%
@@ -627,7 +648,7 @@
 
 ### ■ 142日目: 2024年11月13日　[Twitterリンク](https://x.com/kyohei_IT/status/1856735559357796495)
 
-**今日の進捗  60
+**今日の進捗**  60
 - Node.js/Express編/初級
   - 初めてのREST API【Re:ゼロから始めるWeb API入門実践編#1】 ⇨ 100%
   - サルでも分かるExpressでのjsonAPIサーバーの作り方 ⇨ 10%
@@ -649,7 +670,7 @@
 
 ### ■ 141日目: 2024年11月12日　[Twitterリンク](https://x.com/kyohei_IT/status/1856357198752034941)
 
-**今日の進捗  120
+**今日の進捗**  120
 - Node.js/Express編/初級
   - 初めてのREST API【Re:ゼロから始めるWeb API入門実践編#1】 ⇨ 80%
 
@@ -671,7 +692,7 @@
 
 ### ■ 140日目: 2024年11月11日　[Twitterリンク](https://x.com/kyohei_IT/status/1855999119019626980)
 
-**今日の進捗  150
+**今日の進捗**  150
 - Node.js/Express編/初級
   - expressで作るHTTPサーバ – 入門編 ⇨ 100%
   - Node.jsとExpressでWeb APIを作ってみよう ⇨ 100%
@@ -695,7 +716,7 @@
 
 ### ■ 139日目: 2024年11月10日　[Twitterリンク](https://x.com/kyohei_IT/status/1855768782872191071)
 
-**今日の進捗  150
+**今日の進捗**  150
 - Node.js/Express編/初級
   - REST WebAPI サービス 設計 ⇨ 100%
   - expressで作るHTTPサーバ – 入門編 ⇨ 5%
@@ -717,7 +738,7 @@
 
 ### ■ 138日目: 2024年11月9日　[Twitterリンク](https://x.com/kyohei_IT/status/1855271374513963010)
 
-**今日の進捗  90
+**今日の進捗**  90
 - Node.js/Express編/初級
   - REST WebAPI サービス 設計 ⇨ 80%
 
@@ -738,7 +759,7 @@
 
 ### ■ 137日目: 2024年11月8日　[Twitterリンク](https://x.com/kyohei_IT/status/1854940448277803268)
 
-**今日の進捗  105
+**今日の進捗**  105
 - Node.js/Express編/初級
   - REST WebAPI サービス 設計 ⇨ 50%
 
@@ -761,7 +782,7 @@
 
 ### ■ 136日目: 2024年11月7日　[Twitterリンク](https://x.com/kyohei_IT/status/1854543311346016262)
 
-**今日の進捗  165
+**今日の進捗**  165
 - Node.js/Express編/初級
   - Node.jsⅤ(学習コース) ⇨ 100%
   - Node.jsⅤI(学習コース) ⇨ 100%
@@ -786,7 +807,7 @@
 
 ### ■ 135日目: 2024年11月6日　[Twitterリンク](https://x.com/kyohei_IT/status/1854191724652040404)
 
-**今日の進捗  150
+**今日の進捗**  150
 - Node.js/Express編/初級
   - Node.jsⅠ(学習コース) ⇨ 100%
   - Node.jsⅡ(学習コース) ⇨ 100%
@@ -813,7 +834,7 @@
 
 ### ■ 134日目: 2024年11月5日　[Twitterリンク](https://x.com/kyohei_IT/status/1853831859467431975)
 
-**今日の進捗  120
+**今日の進捗**  120
 - SQL初級編
   - 【22日間で学ぶ】SQL文、分析関数、テーブル設計、SQLチューニングまでMySQLで覚えるSQL実践講座 ⇨ 30%
 
@@ -836,7 +857,7 @@
 
 ### ■ 133日目: 2024年11月4日　[Twitterリンク](https://x.com/kyohei_IT/status/1853453786632908828)
 
-**今日の進捗  210
+**今日の進捗**  210
 - SQL初級編
   - テーブル設計の考え方とやり方 \[入門編\] ⇨ 100%
   - 【22日間で学ぶ】SQL文、分析関数、テーブル設計、SQLチューニングまでMySQLで覚えるSQL実践講座 ⇨ 30%
@@ -862,7 +883,7 @@
 
 ### ■ 132日目: 2024年11月3日　[Twitterリンク](https://x.com/kyohei_IT/status/1853232250592403660)
 
-**今日の進捗  120
+**今日の進捗**  120
 - SQL初級編
   - DVD Rental データベースを使ったJOIN、集計とグルーピング ⇨ 100%
   - 一夜漬けSQL ～今日からあなたもデータ分析者～ ⇨ 100%
@@ -888,7 +909,7 @@
 
 ### ■ 131日目: 2024年11月2日　[Twitterリンク](https://x.com/kyohei_IT/status/1852741214543724894)
 
-**今日の進捗  75
+**今日の進捗**  75
 - SQL初級編
   - モダンなSQLクライアントソフト「DBeaver」の紹介 ⇨ 100%
   - 【完全無料】SQL：初心者向け学習ロードマップ：SQLの高度なトピックス ⇨ 100%
@@ -913,7 +934,7 @@
 
 ### ■ 130日目: 2024年11月1日　[Twitterリンク](https://x.com/kyohei_IT/status/1852387536871813432)
 
-**今日の進捗  240
+**今日の進捗**  240
 - SQL初級編
   - sqlzoo ⇨ 100%
   - SQL初級編（SQLab） ⇨ 100%
@@ -937,7 +958,7 @@
 
 ### ■ 129日目: 2024年10月31日　[Twitterリンク](https://x.com/kyohei_IT/status/1852146810665734237)
 
-**今日の進捗  60
+**今日の進捗**  60
 - SQL初級編
   - sqlzoo ⇨ 20%
 - Ansible
@@ -960,7 +981,7 @@
 
 ### ■ 128日目: 2024年10月30日　[Twitterリンク](https://x.com/kyohei_IT/status/1851640534852567069)
 
-**今日の進捗  165
+**今日の進捗**  165
 - SQL初級編
   - ＳＱＬ攻略 - Ｗｅｂ上でＳＱＬを実行しながらマスターするサイト ⇨ 100%
   - SQLBolt ⇨ 100%
@@ -987,7 +1008,7 @@
 
 ### ■ 127日目: 2024年10月29日　[Twitterリンク](https://x.com/kyohei_IT/status/1851285651209265572)
 
-**今日の進捗  150
+**今日の進捗**  150
 - SQL初級編
   - さまざまなリレーション ⇨ 100%
   - 学生管理システムのDBを構築してみよう ⇨ 100%
@@ -1017,7 +1038,7 @@
 
 ### ■ 126日目: 2024年10月28日　[Twitterリンク](https://x.com/kyohei_IT/status/1850914521738797069)
 
-**今日の進捗  120
+**今日の進捗**  120
 - SQL初級編
   - 【完全無料】SQL：初心者向け学習ロードマップ：データベースの基礎、SQLの基礎 ⇨ 100%
   - DBの基礎 ⇨ 100%
@@ -1044,7 +1065,7 @@
 
 ### ■ 125日目: 2024年10月27日　[Twitterリンク](https://x.com/kyohei_IT/status/1850558452101431531)
 
-**今日の進捗  60
+**今日の進捗**  60
 - Next/Prisma編
   - Nextjs/Prismaを使ってフルスタックTodoアプリを作成しよう 70%
 
@@ -1070,7 +1091,7 @@
 
 ### ■ 124日目: 2024年10月26日　[Twitterリンク](https://x.com/kyohei_IT/status/1850374333245612255)
 
-**今日の進捗  240
+**今日の進捗**  240
 - Next/Prisma編
   - Nextjs/Prismaを使ってフルスタックTodoアプリを作成しよう 70%
 
@@ -1091,7 +1112,7 @@
 
 ### ■ 123日目: 2024年10月25日　[Twitterリンク](https://x.com/kyohei_IT/status/1849864087678935370)
 
-**今日の進捗  570
+**今日の進捗**  570
 - Next/Prisma編
   - Nextjs/Prismaを使ってフルスタックTodoアプリを作成しよう 50%
 
@@ -1113,7 +1134,7 @@
 
 ### ■ 122日目: 2024年10月24日　[Twitterリンク](https://x.com/kyohei_IT/status/1849608323043352943)
 
-**今日の進捗  75
+**今日の進捗**  75
 - Next/Prisma編
   - Nextjs/Prismaを使ってフルスタックTodoアプリを作成しよう -->10%
 
@@ -1134,7 +1155,7 @@
 
 ### ■ 121日目: 2024年10月23日　[Twitterリンク](https://x.com/kyohei_IT/status/1849119678402384278)
 
-**今日の進捗  240
+**今日の進捗**  240
 - Next/Prisma編
   - How to Build a Fullstack App with Next.js, Prisma, and PostgreSQL ✔︎
   - Nextjs/Prismaを使ってフルスタックTodoアプリを作成しよう -->10%
@@ -1156,7 +1177,7 @@
 
 ### ■ 120日目: 2024年10月22日　[Twitterリンク](https://x.com/kyohei_IT/status/1848741686400458917)
 
-**今日の進捗  120
+**今日の進捗**  120
 - Next/Prisma編
   - How to Build a Fullstack App with Next.js, Prisma, and PostgreSQL --> 40%
 
@@ -1176,7 +1197,7 @@
 
 ### ■ 119日目: 2024年10月21日　[Twitterリンク](https://x.com/kyohei_IT/status/1848423820220371262)
 
-**今日の進捗  165
+**今日の進捗**  165
 - Next/Prisma編
   - 電子記事販売WebアプリケーションをNext.jsをフル活用して実践力を身に着けるWeb開発マスター講座 
   - How to Build a Fullstack App with Next.js, Prisma, and PostgreSQL --> 5%
@@ -1198,7 +1219,7 @@
 
 ### ■ 118日目: 2024年10月20日　[Twitterリンク](https://x.com/kyohei_IT/status/1848026498567147740)
 
-**今日の進捗  390
+**今日の進捗**  390
 - Next/Prisma編
   - 電子記事販売WebアプリケーションをNext.jsをフル活用して実践力を身に着けるWeb開発マスター講座 --> 75%
 
@@ -1219,7 +1240,7 @@
 
 ### ■ 117日目: 2024年10月19日　[Twitterリンク](https://x.com/kyohei_IT/status/1847792196063559866)
 
-**今日の進捗  300
+**今日の進捗**  300
 - Next/Prisma編
   - モダンな技術でフルスタックブログ開発をしてみよう【Next.js13/Prisma/Supabase/Typescriptを利用】✅
   - 電子記事販売WebアプリケーションをNext.jsをフル活用して実践力を身に着けるWeb開発マスター講座 --> 30%
@@ -1241,7 +1262,7 @@
 
 ### ■ 116日目: 2024年10月18日　[Twitterリンク](https://x.com/kyohei_IT/status/1847295605221249135)
 
-**今日の進捗  60
+**今日の進捗**  60
 - Next/Prisma編
   - モダンな技術でフルスタックブログ開発をしてみよう【Next.js13/Prisma/Supabase/Typescriptを利用】 --> 90%
 
@@ -1262,7 +1283,7 @@
 
 ### ■ 115日目: 2024年10月17日　[Twitterリンク](https://x.com/kyohei_IT/status/1846932122512306259)
 
-**今日の進捗  240
+**今日の進捗**  240
 - Next/Prisma編
   - Next.jsでPrismaとSupabaseを使ってみる　Prisma設定編　✅
   - Next.jsでPrismaとSupabaseを使ってみる　API編　✅
@@ -1288,7 +1309,7 @@
 
 ### ■ 114日目: 2024年10月16日　[Twitterリンク](https://x.com/kyohei_IT/status/1846569175818604993)
 
-**今日の進捗  255
+**今日の進捗**  255
 - Next/Prisma編
   - 【Prisma入門】次世代ORMで簡単にデータベース管理ができるようになろう ✔︎
   - Prisma を使った効率的なバックエンド開発ワークフロー ✔︎
@@ -1314,7 +1335,7 @@
 
 ### ■ 113日目: 2024年10月15日　[Twitterリンク](https://x.com/kyohei_IT/status/1846211402341798273)
 
-**今日の進捗  105
+**今日の進捗**  105
 - Next v13以降
   - 【Next.js13】最新バージョンのNext.js13をマイクロブログ構築しながら基礎と本質を学ぶ講座 ✔︎
 - Next/Prisma編
@@ -1337,7 +1358,7 @@
 
 ### ■ 112日目: 2024年10月14日　[Twitterリンク](https://x.com/kyohei_IT/status/1845865100777070918)
 
-**今日の進捗  330
+**今日の進捗**  330
 - Next v13以降
   - 【Next.js13】最新バージョンのNext.js13をマイクロブログ構築しながら基礎と本質を学ぶ講座 --> 90%
 - Prettier復習
@@ -1359,7 +1380,7 @@
 
 ### ■ 111日目: 2024年10月13日　[Twitterリンク](https://x.com/kyohei_IT/status/1845474461853909189)
 
-**今日の進捗  120
+**今日の進捗**  120
 - Next v13以降
   - 【Next.js13】最新バージョンのNext.js13をマイクロブログ構築しながら基礎と本質を学ぶ講座 --> 60%
 
@@ -1379,7 +1400,7 @@
 
 ### ■ 110日目: 2024年10月12日　[Twitterリンク](https://x.com/kyohei_IT/status/1845145172319010887)
 
-**今日の進捗  285
+**今日の進捗**  285
 - Next v13以降
   - 全てがここに！Next.jsとSupabaseで構築する認証システム --> 100%
   - 【Next.js13】最新バージョンのNext.js13をマイクロブログ構築しながら基礎と本質を学ぶ講座 --> 5%
@@ -1400,7 +1421,7 @@
 
 ### ■ 109日目: 2024年10月11日　[Twitterリンク](https://x.com/kyohei_IT/status/1844884423122223226)
 
-**今日の進捗  210
+**今日の進捗**  210
 - Next v13以降
   - 全てがここに！Next.jsとSupabaseで構築する認証システム --> %
 
@@ -1420,7 +1441,7 @@
 
 ### ■ 108日目: 2024年10月10日　[Twitterリンク](https://x.com/kyohei_IT/status/1844523881350225931)
 
-**今日の進捗  120
+**今日の進捗**  120
 - Ansible
   - \[Zenn\] Ansibleの使い方 --> 10%
 - Next v13以降
@@ -1442,7 +1463,7 @@
 
 ### ■ 107日目: 2024年10月9日　[Twitterリンク](https://x.com/kyohei_IT/status/1844153203715342592)
 
-**今日の進捗  60
+**今日の進捗**  60
 - Next v13以降
   - Next.js14で掲示板Webアプリケーションを作ってみよう【Supabase/react-hook-form/zod/shadcnを利用】 --> 70%
 
@@ -1462,7 +1483,7 @@
 
 ### ■ 106日目: 2024年10月8日　[Twitterリンク](https://x.com/kyohei_IT/status/1843797993289593128)
 
-**今日の進捗  180
+**今日の進捗**  180
 - Next v13以降
   - Next.js14で掲示板Webアプリケーションを作ってみよう【Supabase/react-hook-form/zod/shadcnを利用】 --> 70%
 
@@ -1480,7 +1501,7 @@
 
 ### ■ 105日目: 2024年10月7日　[Twitterリンク](https://x.com/kyohei_IT/status/1843301066773008745)
 
-**今日の進捗  120
+**今日の進捗**  120
 - Next v13以降
   - Todoアプリを作りながらNext.js13の新機能を理解してみよう ~Next.js13入門~
   - Next.js14で掲示板Webアプリケーションを作ってみよう【Supabase/react-hook-form/zod/shadcnを利用】 --> 10%
@@ -1497,7 +1518,7 @@
 
 ### ■ 104日目: 2024年10月6日　[Twitterリンク](https://x.com/kyohei_IT/status/1842951664917270853)
 
-**今日の進捗  180
+**今日の進捗**  180
 - Next v13以降
   - Next.jsと一緒に学ぶReact講座
   - Next.js 13入門 - App Router対応
@@ -1517,7 +1538,7 @@
 
 ### ■ 103日目: 2024年10月5日　[Twitterリンク](https://x.com/kyohei_IT/status/1842717094510825677)
 
-**今日の進捗  105
+**今日の進捗**  105
 - Next v13以降
   - Next.jsと一緒に学ぶReact講座 --> 50%
 
@@ -1533,7 +1554,7 @@
 
 ### ■ 102日目: 2024年10月4日　[Twitterリンク](https://x.com/kyohei_IT/status/1842216272211443737)
 
-**今日の進捗  75
+**今日の進捗**  75
 - Next v13以降
   - Next.jsと一緒に学ぶReact講座 --> 25%
 
@@ -1549,7 +1570,7 @@
 
 ### ■ 101日目: 2024年10月3日　[Twitterリンク](https://x.com/kyohei_IT/status/1841850468185866437)
 
-**今日の進捗  195
+**今日の進捗**  195
 - React 上級
   - 今後のフロントエンド開発で必須知識となるReact v18の機能を丁寧に理解する
 - Next v13以降
@@ -1571,7 +1592,7 @@
 
 ### ■ 100日目: 2024年10月2日　[Twitterリンク](https://x.com/kyohei_IT/status/1841491045001179152)
 
-**今日の進捗  195
+**今日の進捗**  195
 - React 上級
   - 今後のフロントエンド開発で必須知識となるReact v18の機能を丁寧に理解する --> 70%
 
@@ -1590,7 +1611,7 @@
 
 ### ■ 99日目: 2024年10月1日　[Twitterリンク](https://x.com/kyohei_IT/status/1841191845659103531)
 
-**今日の進捗  135
+**今日の進捗**  135
 - React 上級
   - Reactに入門した人のためのもっとReactが楽しくなるステップアップコース完全版
   - 今後のフロントエンド開発で必須知識となるReact v18の機能を丁寧に理解する --> 10%
@@ -1614,7 +1635,7 @@ useStateでステートを用意
 
 ### ■ 98日目: 2024年9月30日　[Twitterリンク](https://x.com/kyohei_IT/status/1840784628929745266)
 
-**今日の進捗  90
+**今日の進捗**  90
 - React 上級
   - 記事
     - React 18について自分がインプットに使った記事・動画をまとめてみた（随時更新）
@@ -1631,7 +1652,7 @@ useStateでステートを用意
 
 ### ■ 97日目: 2024年9月29日　[Twitterリンク](https://x.com/kyohei_IT/status/1840409893901398468)
 
-**今日の進捗  60
+**今日の進捗**  60
 - React 上級
   - （Reactに入門した人のためのもっとReactが楽しくなるステップアップコース完全版 ---> 95%）
   - 記事
@@ -1654,7 +1675,7 @@ useStateでステートを用意
 
 ### ■ 96日目: 2024年9月28日　[Twitterリンク](https://x.com/kyohei_IT/status/1840212664691372092)
 
-**今日の進捗  270
+**今日の進捗**  270
 - React 上級
   - Reactに入門した人のためのもっとReactが楽しくなるステップアップコース完全版 ---> 95%
   - 記事
@@ -1671,7 +1692,7 @@ useStateでステートを用意
 
 ### ■ 95日目: 2024年9月27日　[Twitterリンク]()
 
-**今日の進捗  60
+**今日の進捗**  60
 - React 上級
   - Reactに入門した人のためのもっとReactが楽しくなるステップアップコース完全版 ---> 85%
 
@@ -1688,7 +1709,7 @@ useStateでステートを用意
 
 ### ■ 94日目: 2024年9月26日　[Twitterリンク]()
 
-**今日の進捗  135
+**今日の進捗**  135
 - React 上級
   - Reactに入門した人のためのもっとReactが楽しくなるステップアップコース完全版 ---> 80%
 
@@ -1705,7 +1726,7 @@ useStateでステートを用意
 
 ### ■ 93日目: 2024年9月25日　[Twitterリンク](https://x.com/kyohei_IT/status/1838931410989822200)
 
-**今日の進捗  120
+**今日の進捗**  120
 - React 上級
   - Reactに入門した人のためのもっとReactが楽しくなるステップアップコース完全版 ---> 70%
 
@@ -1720,7 +1741,7 @@ useStateでステートを用意
 
 ### ■ 92日目: 2024年9月24日　[Twitterリンク](https://x.com/kyohei_IT/status/1838588266834202705)
 
-**今日の進捗  165
+**今日の進捗**  165
 - React 上級
   - Reactに入門した人のためのもっとReactが楽しくなるステップアップコース完全版 ---> 50%
 
@@ -1735,7 +1756,7 @@ useStateでステートを用意
 
 ### ■ 91日目: 2024年9月23日　[Twitterリンク](https://x.com/kyohei_IT/status/1838228057221689520)
 
-**今日の進捗  255
+**今日の進捗**  255
 - React 上級
   - Reactに入門した人のためのもっとReactが楽しくなるステップアップコース完全版 ---> 40%
 
@@ -1751,7 +1772,7 @@ useStateでステートを用意
 
 ### ■ 90日目: 2024年9月22日　[Twitterリンク](https://x.com/kyohei_IT/status/1837863224009806251)
 
-**今日の進捗  180
+**今日の進捗**  180
 - React 中級
   - TypeScript で React Hooks に入門するチュートリアル
   - スキルチェックReactレベル2の内容が理解・使えるか確認
@@ -1767,7 +1788,7 @@ useStateでステートを用意
 
 ### ■ 89日目: 2024年9月21日　[Twitterリンク](https://x.com/kyohei_IT/status/1837509127263916372)
 
-**今日の進捗  270
+**今日の進捗**  270
 - React 中級
   - TypeScript で React Hooks に入門するチュートリアル  ---> 80%
 - Ansible
@@ -1783,7 +1804,7 @@ useStateでステートを用意
 
 ### ■ 88日目: 2024年9月20日　[Twitterリンク](https://x.com/kyohei_IT/status/1837288406445109550)
 
-**今日の進捗  60
+**今日の進捗**  60
 - React 中級
   - React Hook Form ライブラリの使い方！フォームのバリデーションを実装しよう【 TypeScript 】
   - TypeScript で React Hooks に入門するチュートリアル  ---> 10%
@@ -1799,7 +1820,7 @@ useStateでステートを用意
 
 ### ■ 87日目: 2024年9月19日　[Twitterリンク](https://x.com/kyohei_IT/status/1836763792505807228)
 
-**今日の進捗  90
+**今日の進捗**  90
 - React 中級
   - React Hook Form ライブラリの使い方！フォームのバリデーションを実装しよう【 TypeScript 】 ---> 60%
 
@@ -1814,7 +1835,7 @@ useStateでステートを用意
 
 ### ■ 86日目: 2024年9月18日　[Twitterリンク](https://x.com/kyohei_IT/status/1836413155536441509)
 
-**今日の進捗  255
+**今日の進捗**  255
 - React 中級
   - ReactでTodoアプリを作ろう
 
@@ -1830,7 +1851,7 @@ useStateでステートを用意
 
 ### ■ 85日目: 2024年9月17日　[Twitterリンク](https://x.com/kyohei_IT/status/1836045192333570391)
 
-**今日の進捗  150
+**今日の進捗**  150
 - React 初級
   - React.jsでTODOリストをつくる（初級編）
 - React 中級
@@ -1847,7 +1868,7 @@ useStateでステートを用意
 
 ### ■ 84日目: 2024年9月16日　[Twitterリンク](https://x.com/kyohei_IT/status/1835706972030849377)
 
-**今日の進捗  285
+**今日の進捗**  285
 - React 初級
   - React.jsでTODOリストをつくる（初級編） --> 80%
 
@@ -1862,7 +1883,7 @@ useStateでステートを用意
 
 ### ■ 83日目: 2024年9月15日　[Twitterリンク](https://x.com/kyohei_IT/status/1835340744850309234)
 
-**今日の進捗  300
+**今日の進捗**  300
 - React 初級
   - モダンJavaSciptの基礎から始める挫折しないためのReact入門
   - スキルチェックReactレベル1の内容が理解・使えるか確認
@@ -1877,7 +1898,7 @@ useStateでステートを用意
 
 ### ■ 82日目: 2024年9月14日　[Twitterリンク](https://x.com/kyohei_IT/status/1834963900196175917)
 
-**今日の進捗  315
+**今日の進捗**  315
 - React 初級
   - モダンJavaSciptの基礎から始める挫折しないためのReact入門
 
@@ -1892,7 +1913,7 @@ useStateでステートを用意
 
 ### ■ 81日目: 2024年9月13日　[Twitterリンク](https://x.com/kyohei_IT/status/1834600907428032825)
 
-**今日の進捗  135
+**今日の進捗**  135
 - React 初級
   - モダンJavaSciptの基礎から始める挫折しないためのReact入門  --> 50%
 
@@ -1908,7 +1929,7 @@ useStateでステートを用意
 
 ### ■ 80日目: 2024年9月12日　[Twitterリンク](https://x.com/kyohei_IT/status/1834231616539164809)
 
-**今日の進捗  120
+**今日の進捗**  120
 - React 初級
   - 【React Hooks入門】完全初心者OK！8種類のHooksを学んでReactの理解を深めよう
   - モダンJavaSciptの基礎から始める挫折しないためのReact入門  --> 5%
@@ -1925,7 +1946,7 @@ useStateでステートを用意
 
 ### ■ 79日目: 2024年9月11日　[Twitterリンク](https://x.com/kyohei_IT/status/1833883053896384712)
 
-**今日の進捗  135
+**今日の進捗**  135
 - React 初級
   - CodeLesson
     - Reactでクリックするたびに色が変わるボタンを作ろう
@@ -1944,7 +1965,7 @@ useStateでステートを用意
 
 ### ■ 78日目: 2024年9月10日　[Twitterリンク](https://x.com/kyohei_IT/status/1833511337114406961)
 
-**今日の進捗  165
+**今日の進捗**  165
 - React 初級
   - CodeLesson
     - React入門
@@ -1965,7 +1986,7 @@ useStateでステートを用意
 
 ### ■ 77日目: 2024年9月9日　[Twitterリンク](https://x.com/kyohei_IT/status/1833150223197372759)
 
-**今日の進捗  105
+**今日の進捗**  105
 - React 初級
   - CodeLesson
     - Reactによく出るJavaScriptをおさらいしよう
@@ -1983,7 +2004,7 @@ useStateでステートを用意
 
 ### ■ 76日目: 2024年9月8日　[Twitterリンク](https://x.com/kyohei_IT/status/1832800964455403689)
 
-**今日の進捗  270
+**今日の進捗**  270
 - React 初級
   - のび太君でもわかるReact入門
   - 【React入門】Youtube
@@ -2001,7 +2022,7 @@ useStateでステートを用意
 
 ### ■ 75日目: 2024年9月7日　[Twitterリンク](https://x.com/kyohei_IT/status/1832451518005703105)
 
-**今日の進捗  315
+**今日の進捗**  315
 - React 初級
   - 【ESlint/Prettier入門】自動コード整形と構文チェックで開発効率を爆上げしてみよう
   - のび太君でもわかるReact入門
@@ -2019,7 +2040,7 @@ useStateでステートを用意
 
 ### ■ 74日目: 2024年9月6日　[Twitterリンク](https://x.com/kyohei_IT/status/1832226631076999556)
 
-**今日の進捗  75
+**今日の進捗**  75
 - React 初級
   - 【ESlint/Prettier入門】自動コード整形と構文チェックで開発効率を爆上げしてみよう -> \[30%\]
 - 環境構築
@@ -2035,7 +2056,7 @@ useStateでステートを用意
 
 ### ■ 73日目: 2024年9月5日　[Twitterリンク](https://x.com/kyohei_IT/status/1831707693125636111)
 
-**今日の進捗  165
+**今日の進捗**  165
 - TypeScript　中級
   - TypeScriptおすすめ記事レベル2を読了する
   - 型ドリル\[HARD\]
@@ -2056,7 +2077,7 @@ useStateでステートを用意
 
 ### ■ 72日目: 2024年9月4日　[Twitterリンク](https://x.com/kyohei_IT/status/1831361401505628658)
 
-**今日の進捗  90
+**今日の進捗**  90
 - TypeScript　中級
   - TypeScriptの型演習
   - TypeScriptおすすめ記事レベル2を読了する
@@ -2075,7 +2096,7 @@ useStateでステートを用意
 
 ### ■ 71日目: 2024年9月3日　[Twitterリンク](https://x.com/kyohei_IT/status/1831115172553093315)
 
-**今日の進捗  75
+**今日の進捗**  75
 - TypeScript　中級
   - TypeScriptの型演習
 
@@ -2091,7 +2112,7 @@ useStateでステートを用意
 
 ### ■ 70日目: 2024年9月2日　[Twitterリンク](https://x.com/kyohei_IT/status/1830630970422432061)
 
-**今日の進捗  210
+**今日の進捗**  210
 - TypeScript　中級
   - ゴリ押ししないTypeScript 型ガードの使いどころ5選
   - 使えると便利！TypeScriptのUtilityType入門
@@ -2112,7 +2133,7 @@ useStateでステートを用意
 
 ### ■ 69日目: 2024年9月1日　[Twitterリンク](https://x.com/kyohei_IT/status/1830281027509739677)
 
-**今日の進捗  300
+**今日の進捗**  300
 - TypeScript　初級
   - 型ドリル\[NORMAL\]
 - TypeScript　中級
@@ -2133,7 +2154,7 @@ useStateでステートを用意
 
 ### ■ 68日目: 2024年8月31日　[Twitterリンク](https://x.com/kyohei_IT/status/1829914858978197747)
 
-**今日の進捗  300
+**今日の進捗**  300
 - TypeScript　初級
   - TypeScriptおすすめ記事レベル1を読了する
     - サバイバルTypeScript
@@ -2154,7 +2175,7 @@ useStateでステートを用意
 
 ### ■ 67日目: 2024年8月30日　[Twitterリンク](https://x.com/kyohei_IT/status/1829530216559173841)
 
-**今日の進捗  60
+**今日の進捗**  60
 - TypeScript　初級
   - 記事
     - TypeScriptの型入門
@@ -2173,7 +2194,7 @@ useStateでステートを用意
 
 ### ■ 66日目: 2024年8月29日　[Twitterリンク](https://x.com/kyohei_IT/status/1829149497446019493)
 
-**今日の進捗  105
+**今日の進捗**  105
 - TypeScript　初級
   - CodeLesson
     - 必要最小限のTypescript入門
@@ -2191,7 +2212,7 @@ useStateでステートを用意
 
 ### ■ 65日目: 2024年8月28日　[Twitterリンク](https://x.com/kyohei_IT/status/1828793781476536399)
 
-**今日の進捗  120
+**今日の進捗**  120
 - TypeScript
   - おすすめ記事2.5本読了
 
@@ -2206,7 +2227,7 @@ useStateでステートを用意
 
 ### ■ 64日目: 2024年8月27日　[Twitterリンク](https://x.com/kyohei_IT/status/1828447155721470272)
 
-**今日の進捗  180
+**今日の進捗**  180
 - Git
   - Gitに関する記事を読んで理解を深める
   - GitHub実践ハンズオン
@@ -2224,7 +2245,7 @@ useStateでステートを用意
 
 ### ■ 63日目: 2024年8月26日　[Twitterリンク](https://x.com/kyohei_IT/status/1828209371001868576)
 
-**今日の進捗  240
+**今日の進捗**  240
 - Git
   - VSCodeでのGitの基本操作まとめ
   - 【Git】自分のアカウントだけでプルリクの練習をしてみよう(pull request)
@@ -2243,7 +2264,7 @@ useStateでステートを用意
 
 ### ■ 62日目: 2024年8月25日　[Twitterリンク](https://x.com/kyohei_IT/status/1827717107620217047)
 
-**今日の進捗  240
+**今日の進捗**  240
 - Git
   - 新しい SSH キーを生成して ssh-agent に追加する
   - VSCodeでGit・GitHubを使う方法を解説する【初心者向き】
@@ -2264,7 +2285,7 @@ useStateでステートを用意
 
 ### ■ 61日目: 2024年8月24日　[Twitterリンク](https://x.com/kyohei_IT/status/1827366622006538604)
 
-**今日の進捗  300
+**今日の進捗**  300
 - JavaScript DOM 初級
   - CodeLesson
     - さまざまな要素の取得方法を学ぼう
@@ -2285,7 +2306,7 @@ useStateでステートを用意
 
 ### ■ 60日目: 2024年8月23日　[Twitterリンク](https://x.com/kyohei_IT/status/1827006898958381532)
 
-**今日の進捗  270
+**今日の進捗**  270
 - 開発ツール
   - terminal コマンド編
   - Command Line 基礎編
@@ -2311,7 +2332,7 @@ useStateでステートを用意
 
 ### ■ 59日目: 2024年8月22日　[Twitterリンク](https://x.com/kyohei_IT/status/1826642632749293992)
 
-**今日の進捗  405
+**今日の進捗**  405
 - Javascript中級
   - 小学生でもわかるasync/await/Promise入門【JavaScript講座】
   - スキルチェックJavaScriptレベル2の内容が理解・使えるか確認
@@ -2335,7 +2356,7 @@ useStateでステートを用意
 
 ### ■ 58日目: 2024年8月21日　[Twitterリンク](https://x.com/kyohei_IT/status/1826272267141300569)
 
-**今日の進捗  330
+**今日の進捗**  330
 - Javascript中級
   - CodeLesson
     - Javascriptの非同期処理について学んでいこう
@@ -2357,7 +2378,7 @@ useStateでステートを用意
 
 ### ■ 57日目: 2024年8月20日　[Twitterリンク](https://x.com/kyohei_IT/status/1826039749599179057)
 
-**今日の進捗  300
+**今日の進捗**  300
 - Javascript初級
   - Javascriptドリル/EASY
 - CodeLesson Javascript中級
@@ -2377,7 +2398,7 @@ useStateでステートを用意
 
 ### ■ 56日目: 2024年8月18日　[Twitterリンク](https://x.com/kyohei_IT/status/1825304179268870638)
 
-**今日の進捗  240
+**今日の進捗**  240
 
 - CodeLesson Javascript
 - DAILY CODE
@@ -2395,7 +2416,7 @@ useStateでステートを用意
 
 ### ■ 55日目: 2024年8月17日　[Twitterリンク](https://x.com/kyohei_IT/status/1824961563973034202)
 
-**今日の進捗  210
+**今日の進捗**  210
 
 \[新規\]
 - codelesson Javascript
@@ -2414,7 +2435,7 @@ useStateでステートを用意
 
 ### ■ 54日目: 2024年8月16日　[Twitterリンク](https://x.com/kyohei_IT/status/1824465653698531478)
 
-**今日の進捗  60
+**今日の進捗**  60
 
 \[新規\]
 - codelesson Javascript入門
@@ -2435,7 +2456,7 @@ useStateでステートを用意
 
 ### ■ 53日目: 2024年8月15日　[Twitterリンク](https://x.com/kyohei_IT/status/1824100137175802023)
 
-**今日の進捗  90
+**今日の進捗**  90
 
 \[新規\]
 - DAILY CODE
@@ -2455,7 +2476,7 @@ useStateでステートを用意
 
 ### ■ 52日目: 2024年8月14日　[Twitterリンク](https://x.com/kyohei_IT/status/1823738270284701765)
 
-**今日の進捗  180
+**今日の進捗**  180
 
 \[新規\]
 - DAILY CODE
@@ -2476,7 +2497,7 @@ useStateでステートを用意
 
 ### ■ 51日目: 2024年8月13日　[Twitterリンク](https://x.com/kyohei_IT/status/1823388278432924101)
 
-**今日の進捗  90
+**今日の進捗**  90
 
 \[復習\]
 - \[OSS DB\] Ping-t 80問
@@ -2493,7 +2514,7 @@ useStateでステートを用意
 
 ### ■ 50日目: 2024年8月12日　[Twitterリンク](https://x.com/kyohei_IT/status/1823151516607545467)
 
-**今日の進捗  210
+**今日の進捗**  210
 
 \[復習\]
 - \[OSS DB\] Ping-t 123問
@@ -2511,7 +2532,7 @@ useStateでステートを用意
 
 ### ■ 49日目: 2024年8月11日　[Twitterリンク](https://x.com/kyohei_IT/status/1822802447297126551)
 
-**今日の進捗  135
+**今日の進捗**  135
 
 \[新規\]
 - Axross Resipe suumoから物件情報取得
@@ -2530,7 +2551,7 @@ useStateでステートを用意
 
 ### ■ 48日目: 2024年8月10日　[Twitterリンク](https://x.com/kyohei_IT/status/1822426899316088981)
 
-**今日の進捗  90
+**今日の進捗**  90
 
 \[新規\]
 - Axross Resipe suumoから物件情報取得
@@ -2548,7 +2569,7 @@ useStateでステートを用意
 
 ### ■ 47日目: 2024年8月9日　[Twitterリンク](https://x.com/kyohei_IT/status/1822073146381635654)
 
-**今日の進捗  270
+**今日の進捗**  270
 
 \[新規\]
 - \[OSS DB\] Ping-t
@@ -2569,7 +2590,7 @@ useStateでステートを用意
 
 ### ■ 46日目: 2024年8月8日　[Twitterリンク](https://x.com/kyohei_IT/status/1821574493405671586)
 
-**今日の進捗  255
+**今日の進捗**  255
 
 \[新規\]
 - \[OSS DB\] Ping-t
@@ -2590,7 +2611,7 @@ useStateでステートを用意
 
 ### ■ 45日目: 2024年8月6日　[Twitterリンク](https://x.com/kyohei_IT/status/1820856126826770730)
 
-**今日の進捗  240
+**今日の進捗**  240
 
 \[復習\]
 - Axross Resipe suumoから物件情報取得
@@ -2607,7 +2628,7 @@ useStateでステートを用意
 
 ### ■ 44日目: 2024年8月5日　[Twitterリンク](https://x.com/kyohei_IT/status/1820614528998191175)
 
-**今日の進捗  75
+**今日の進捗**  75
 
 \[復習\]
 - Udemy FastAPI セクション 38~47
@@ -2621,7 +2642,7 @@ useStateでステートを用意
 
 ### ■ 43日目: 2024年8月4日　[Twitterリンク](https://x.com/kyohei_IT/status/1820104528186015762)
 
-**今日の進捗  270
+**今日の進捗**  270
 
 \[新規\]
 - \[OSS DB\] Ping-t
@@ -2639,7 +2660,7 @@ useStateでステートを用意
 
 ### ■ 42日目: 2024年8月3日　[Twitterリンク](https://x.com/kyohei_IT/status/1819750257296879781)
 
-**今日の進捗  210
+**今日の進捗**  210
 
 \[新規\]
 - Axross Resipe suumoから物件情報取得
@@ -2657,7 +2678,7 @@ useStateでステートを用意
 
 ### ■ 41日目: 2024年8月2日　[Twitterリンク](https://x.com/kyohei_IT/status/1819550841172644317)
 
-**今日の進捗  60
+**今日の進捗**  60
 
 \[新規\]
 - 要件定義のしっかりわかる教科書
@@ -2673,7 +2694,7 @@ useStateでステートを用意
 
 ### ■ 40日目: 2024年8月1日　[Twitterリンク](https://x.com/kyohei_IT/status/1819027458731200993)
 
-**今日の進捗  120
+**今日の進捗**  120
 
 \[新規\]
 - \[OSS DB\] Ping-t
@@ -2691,7 +2712,7 @@ useStateでステートを用意
 
 ### ■ 39日目: 2024年7月31日　[Twitterリンク](https://x.com/kyohei_IT/status/1818660386570383501)
 
-**今日の進捗  120
+**今日の進捗**  120
 
 \[新規\]
 - Udemy FastAPI セクション 7: 51~52
@@ -2708,7 +2729,7 @@ useStateでステートを用意
 
 ### ■ 38日目: 2024年7月30日　[Twitterリンク](https://x.com/kyohei_IT/status/1818421024821854391)
 
-**今日の進捗  150
+**今日の進捗**  150
 
 \[新規\]
 - Udemy FastAPI セクション 7: 49~50
@@ -2731,7 +2752,7 @@ useStateでステートを用意
 
 ### ■ 37日目: 2024年7月29日　[Twitterリンク](https://x.com/kyohei_IT/status/1817947223973560599)
 
-**今日の進捗  120
+**今日の進捗**  120
 
 \[新規\]
 - Udemy FastAPI セクション 7
@@ -2750,7 +2771,7 @@ useStateでステートを用意
 
 ### ■ 36日目: 2024年7月28日　[Twitterリンク](https://x.com/kyohei_IT/status/1817574464206581763)
 
-**今日の進捗  180
+**今日の進捗**  180
 
 \[新規\]
 - Udemy FastAPI セクション 7
@@ -2768,7 +2789,7 @@ useStateでステートを用意
 
 ### ■ 35日目: 2024年7月27日　[Twitterリンク](https://x.com/kyohei_IT/status/1817227617650802895)
 
-**今日の進捗  180
+**今日の進捗**  180
 
 \[新規\]
 - Udemy FastAPI セクション 6, 7
@@ -2787,7 +2808,7 @@ useStateでステートを用意
 
 ### ■ 34日目: 2024年7月26日　[Twitterリンク](https://x.com/kyohei_IT/status/1817025528635023407)
 
-**今日の進捗  75
+**今日の進捗**  75
 
 \[新規\]
 - Udemy FastAPI セクション 6
@@ -2800,7 +2821,7 @@ useStateでステートを用意
 
 ### ■ 33日目: 2024年7月25日　[Twitterリンク](https://x.com/kyohei_IT/status/1816495271620030840)
 
-**今日の進捗  90
+**今日の進捗**  90
 
 \[新規\]
 - コーディング
@@ -2816,7 +2837,7 @@ useStateでステートを用意
 
 ### ■ 32日目: 2024年7月24日　[Twitterリンク](https://x.com/kyohei_IT/status/1816132925580365930)
 
-**今日の進捗  180
+**今日の進捗**  180
 
 \[新規\]
 - コーディング
@@ -2838,7 +2859,7 @@ useStateでステートを用意
 
 ### ■ 31日目: 2024年7月23日　[Twitterリンク](https://x.com/kyohei_IT/status/1815766073360412873)
 
-**今日の進捗  180
+**今日の進捗**  180
 
 \[新規\]
 - \[OSS DB\] Ping-t
@@ -2856,7 +2877,7 @@ useStateでステートを用意
 
 ### ■ 30日目: 2024年7月22日　[Twitterリンク](https://x.com/kyohei_IT/status/1815421088324784608)
 
-**今日の進捗  300
+**今日の進捗**  300
 
 \[新規\]
 - \[OSS DB\] Ping-t
@@ -2878,7 +2899,7 @@ useStateでステートを用意
 
 ### ■ 29日目: 2024年7月21日　[Twitterリンク](https://x.com/kyohei_IT/status/1815037809012654100)
 
-**今日の進捗  180
+**今日の進捗**  180
 
 \[新規\]
 - OSS DB Silver 11章 21~40問
@@ -2898,7 +2919,7 @@ useStateでステートを用意
 
 ### ■ 28日目: 2024年7月20日　[Twitterリンク](https://x.com/kyohei_IT/status/1814704152884486166)
 
-**今日の進捗  300
+**今日の進捗**  300
 
 \[新規\]
 - OSS DB Silver 11章 11~20問
@@ -2925,7 +2946,7 @@ useStateでステートを用意
 
 ### ■ 27日目: 2024年7月19日　[Twitterリンク](https://x.com/kyohei_IT/status/1814312353410040299)
 
-**今日の進捗  75
+**今日の進捗**  75
 
 \[新規\]
 - Udemy FastAPI セクション 4
@@ -2942,7 +2963,7 @@ useStateでステートを用意
 
 ### ■ 26日目: 2024年7月17日　[Twitterリンク](https://x.com/kyohei_IT/status/1813594734738514001)
 
-**今日の進捗  120
+**今日の進捗**  120
 
 \[新規\]
 - Udemy FastAPI セクション 4
@@ -2956,7 +2977,7 @@ useStateでステートを用意
 
 ### ■ 25日目: 2024年7月16日　[Twitterリンク](https://x.com/kyohei_IT/status/1813358119793381523)
 
-**今日の進捗  120
+**今日の進捗**  120
 
 \[新規\]
 - Udemy FastAPI セクション 4
@@ -2970,7 +2991,7 @@ useStateでステートを用意
 
 ### ■ 24日目: 2024年7月15日　[Twitterリンク](https://x.com/kyohei_IT/status/1812872149629300879)
 
-**今日の進捗  330
+**今日の進捗**  330
 
 \[新規\]
 - Udemy FastAPI セクション 4
@@ -3000,7 +3021,7 @@ useStateでステートを用意
 
 ### ■ 23日目: 2024年7月14日　[Twitterリンク](https://x.com/kyohei_IT/status/1812508520497246543)
 
-**今日の進捗  165
+**今日の進捗**  165
 
 \[新規\]
 - Paiza 新・SQL入門編04ドリル
@@ -3019,7 +3040,7 @@ useStateでステートを用意
 
 ### ■ 22日目: 2024年7月13日　[Twitterリンク](https://x.com/kyohei_IT/status/1811791159691514273)
 
-**今日の進捗  195
+**今日の進捗**  195
 
 \[新規\]
 - Udemy FastAPI セクション 1, 2, 3
@@ -3035,7 +3056,7 @@ useStateでステートを用意
 
 ### ■ 21日目: 2024年7月12日　[Twitterリンク](https://x.com/kyohei_IT/status/1811791159691514273)
 
-**今日の進捗  60
+**今日の進捗**  60
 
 \[新規\]
 - Paiza 新・SQL入門編03ドリル
@@ -3058,7 +3079,7 @@ useStateでステートを用意
 
 ### ■ 20日目: 2024年7月11日　[Twitterリンク](https://x.com/kyohei_IT/status/1811418589259591980)
 
-**今日の進捗  195
+**今日の進捗**  195
 
 \[復習\]
 - ゼロから始めるデータベース操作 1, 2, 3, 4, 5章
@@ -3081,7 +3102,7 @@ useStateでステートを用意
 
 ### ■ 19日目: 2024年7月10日　[Twitterリンク](https://x.com/kyohei_IT/status/1811061401739481335)
 
-**今日の進捗  240
+**今日の進捗**  240
 
 \[新規\]
 - Paiza 新・SQL入門編02ドリル
@@ -3112,7 +3133,7 @@ useStateでステートを用意
 
 ### ■ 18日目: 2024年7月9日　[Twitterリンク](https://x.com/kyohei_IT/status/1810706760673685966)
 
-**今日の進捗  165
+**今日の進捗**  165
 
 \[復習\]
 - Paiza：【最安値】最安値を達成するには 4
@@ -3136,7 +3157,7 @@ useStateでステートを用意
 
 ### ■ 17日目: 2024年7月7日　[Twitterリンク](https://x.com/kyohei_IT/status/1809964721342390473)
 
-**今日の進捗  60
+**今日の進捗**  60
 
 \[新規\]
 - Ansible実践ガイド 3章 実践的なプレイブック利用
@@ -3163,7 +3184,7 @@ useStateでステートを用意
 
 ### ■ 16日目: 2024年7月6日　[Twitterリンク](https://x.com/kyohei_IT/status/1809622687351972326)
 
-**今日の進捗  240
+**今日の進捗**  240
 
 \[新規\]
 - プロになるためのWeb技術入門 6.1~6.3章
@@ -3194,7 +3215,7 @@ useStateでステートを用意
 
 ### ■ 15日目: 2024年7月5日　[Twitterリンク](https://x.com/kyohei_IT/status/1809241665028460584)
 
-**今日の進捗  165
+**今日の進捗**  165
 
 \[復習\]
 - Progate Professional チームの勝率とグッズ売り上げの相関をグラフで表そう
@@ -3232,7 +3253,7 @@ useStateでステートを用意
 
 ### ■ 14日目: 2024年7月4日　[Twitterリンク](https://x.com/kyohei_IT/status/1809008767570489510)
 
-**今日の進捗  60
+**今日の進捗**  60
 
 \[復習\]
 - Progate Professional 月ごとの売上を集計して棒グラフで表そう
@@ -3251,7 +3272,7 @@ useStateでステートを用意
 
 ### ■ 13日目: 2024年7月3日　[Twitterリンク](https://x.com/kyohei_IT/status/1808523822485905904)
 
-**今日の進捗  120
+**今日の進捗**  120
 
 \[新規\]
 - Ansible実践ガイド 3章 実践的なプレイブック利用
@@ -3276,7 +3297,7 @@ useStateでステートを用意
 
 ### ■ 12日目: 2024年7月2日　[Twitterリンク](https://x.com/kyohei_IT/status/1808157851371831483)
 
-**今日の進捗  180
+**今日の進捗**  180
 
 \[復習\]
 - OSS DB Silver 3, 10章
@@ -3306,7 +3327,7 @@ useStateでステートを用意
 
 ### ■ 11日目: 2024年7月1日　[Twitterリンク](https://x.com/kyohei_IT/status/1807792101662609525)
 
-**今日の進捗  135
+**今日の進捗**  135
 
 \[復習\]
 - OSS DB Silver 1, 2, 9章
@@ -3338,7 +3359,7 @@ useStateでステートを用意
 
 ### ■ 10日目: 2024年6月30日　[Twitterリンク](https://x.com/kyohei_IT/status/1807439393118171239)
 
-**今日の進捗  195
+**今日の進捗**  195
 
 \[復習\]
 - OSS DB Silver 1, 2章
@@ -3375,7 +3396,7 @@ useStateでステートを用意
 
 ### ■ 9日目: 2024年6月29日　[Twitterリンク](https://x.com/kyohei_IT/status/1807082951190212701)
 
-**今日の進捗  195
+**今日の進捗**  195
 
 \[復習\]
 - OSS DB Silver 8章
@@ -3405,7 +3426,7 @@ useStateでステートを用意
 
 ### ■ 8日目: 2024年6月28日　[Twitterリンク](https://x.com/kyohei_IT/status/1806714431461793915)
 
-**今日の進捗  60
+**今日の進捗**  60
 
 \[復習\]
 - OSS DB Silver 8章
@@ -3425,7 +3446,7 @@ useStateでステートを用意
 
 ### ■ 7日目: 2024年6月26日　[Twitterリンク](https://x.com/kyohei_IT/status/1805976117360390461)
 
-**今日の進捗  180
+**今日の進捗**  180
 
 \[復習\]
 - Progate Professional ユーザー属性ごとの来店回数をグラフ化しよう
@@ -3449,7 +3470,7 @@ useStateでステートを用意
 
 ### ■ 6日目: 2024年6月25日　[Twitterリンク](https://x.com/kyohei_IT/status/1805615159958028555)
 
-**今日の進捗  210
+**今日の進捗**  210
 
 - Progate Professional ユーザー属性ごとの来店回数をグラフ化しよう
 - OSS DB Silver 9章
@@ -3473,7 +3494,7 @@ useStateでステートを用意
 
 ### ■ 5日目: 2024年6月24日　[Twitterリンク](https://x.com/kyohei_IT/status/1805263307349303481)
 
-**今日の進捗  240
+**今日の進捗**  240
 
 \[復習\]
 - プロになるためのWeb技術入門 5章P239~317　
@@ -3500,7 +3521,7 @@ useStateでステートを用意
 
 ### ■ 4日目: 2024年6月23日　[Twitterリンク](https://x.com/kyohei_IT/status/1804883948562256263)
 
-**今日の進捗  240
+**今日の進捗**  240
 
 \[復習\]
 - Progate Professional：売上推移をグラフ化しよう（2-4,2-5）
@@ -3521,7 +3542,7 @@ useStateでステートを用意
 
 ### ■ 3日目: 2024年6月22日　[Twitterリンク](https://x.com/kyohei_IT/status/1804680045635781048)
 
-**今日の進捗  240
+**今日の進捗**  240
 - OSS DB Silver
   - インデックス（マルチカラムインデックス、関数インデックス/式インデックス、部分インデックス）
   - トリガ
@@ -3542,7 +3563,7 @@ useStateでステートを用意
 
 ### ■ 2日目: 2024年6月21日　[Twitterリンク](https://x.com/kyohei_IT/status/1804085282788249624)
 
-**今日の進捗  300
+**今日の進捗**  300
 - プロになるためのWeb技術入門 5章P239~317
 - OSS DB Silver
   - 制約（外部キー、チェック制約、ドメイン制約、識別子制約）
@@ -3562,7 +3583,7 @@ useStateでステートを用意
 
 ### ■ 1日目: 2024年6月20日　[Twitterリンク](https://x.com/kyohei_IT/status/1803960105978990795)
 
-**今日の進捗  60
+**今日の進捗**  60
 - UDA式30音練習帳復習（DAY1~5）
 - Ansible実践ガイド の プレイブックの基礎復習
   - changed_when
@@ -3581,7 +3602,7 @@ useStateでステートを用意
 
 ### ■ 0日目: 2024年6月19日　[Twitterリンク](https://x.com/kyohei_IT/status/1803414450508275942)
 
-**今日の進捗  180
+**今日の進捗**  180
 - GitHub準備（\#100DaysOfCode）
 - Progate Professional の Pythonによるデータ分析入門復習
   - 「売り上げ推移をグラフ化しよう」
