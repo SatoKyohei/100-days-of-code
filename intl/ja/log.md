@@ -1,4 +1,28 @@
-# 100 Days Of Code - 学習ログ  \[計477h(28645m)\]
+# 100 Days Of Code - 学習ログ  \[計480h(28855m)\]
+
+### ■ 170日目: 2024年12月11日　[Twitterリンク](https://x.com/kyohei_IT/status/1866998072439607415)
+
+**今日の進捗**   210
+- Docker編
+  - 駆け出しエンジニアのためのDocker入門 ⇨ 100%
+
+
+**学んだこと**
+- docker-compose
+  - image：dockerhubのイメージから起動
+  - build：Dockerfileから起動
+- Dockerfile
+  - WORKDIR：コンテナ内の作業ディレクトリ
+
+
+**思ったこと**
+- LinuxやMWの知識が必須ですな。Docker自体はムズくなかったです✌️
+
+
+<br>
+<hr>
+<br>
+
 
 ### ■ 169日目: 2024年12月10日　[Twitterリンク](https://x.com/kyohei_IT/status/1866516796360306751)
 
