@@ -1,4 +1,25 @@
-# 100 Days Of Code - 学習ログ  \[計485h(29145m)\]
+# 100 Days Of Code - 学習ログ  \[計487h(29268m)\]
+
+### ■ 173日目: 2024年12月14日　[Twitterリンク](https://x.com/kyohei_IT/status/1868193635063533900)
+
+**今日の進捗**   123
+- AWS編
+  - 【初心者向け】もう一度最初から触るAmazon RDS ⇨ 100%
+  - Node.jsのORMライブラリのPrismaを使って、ECS(Fargate)からAuroraにクエリを実行してみた ⇨ 90%
+
+
+**学んだこと**
+- Aurora／RDSのデプロイ手順
+
+
+**思ったこと**
+- AuroraのデプロイとDB・テーブル作成、Node.js／Express／Prisma／Dockerのセットアップはできましたが、やっぱりECSのエラーが解決できず一旦スキップ
+
+
+<br>
+<hr>
+<br>
+
 
 ### ■ 172日目: 2024年12月13日　[Twitterリンク](https://x.com/kyohei_IT/status/1867718701191246000)
 
