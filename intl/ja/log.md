@@ -1,10 +1,52 @@
-# 100 Days Of Code - 学習ログ  \[計489h(29328m)\]
+# 100 Days Of Code - 学習ログ  \[計492h(29518m)\]
 
-### ■ 173日目: 2024年12月15日　[Twitterリンク](https://x.com/kyohei_IT/status/1868515598302626055)
+### ■ 176日目: 2024年12月17日　[Twitterリンク](https://x.com/kyohei_IT/status/1869040207594729734)
+
+**今日の進捗**   130
+- Prisma編
+  - prisma と express でつくる REST API ⇨ 100%
+  - はじめてのtsoa×Expressで学ぶOpenAPI自動生成 ⇨ 30%
+
+
+**学んだこと**
+- jest：コードテストツール
+- tsoa：APIドキュメント自動生成ツール
+
+
+**思ったこと**
+- あと4カリキュラム終わったらついにポートフォリオ制作開始！あと2週間。有給使ってギリ間に合わす🔥
+
+
+<br>
+<hr>
+<br>
+
+
+### ■ 175日目: 2024年12月16日　[Twitterリンク](https://x.com/kyohei_IT/status/1868815696639258685)
 
 **今日の進捗**   60
 - Prisma編
-  - prisma と express でつくる REST API ⇨ 100%
+  - prisma と express でつくる REST API ⇨ 80%
+
+
+**学んだこと**
+- prisma/seed.ts作成⇨package.jsonに"seed": "ts-node prisma/seed.ts"⇨npm run seed
+
+
+**思ったこと**
+- 来週にはポートフォリオ作り開始できそう✌️大詰め🔥
+
+
+<br>
+<hr>
+<br>
+
+
+### ■ 174日目: 2024年12月15日　[Twitterリンク](https://x.com/kyohei_IT/status/1868515598302626055)
+
+**今日の進捗**   60
+- Prisma編
+  - prisma と express でつくる REST API ⇨ 30%
 
 
 **学んだこと**
