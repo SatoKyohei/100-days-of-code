@@ -1,4 +1,26 @@
-# 100 Days Of Code - 学習ログ  \[計492h(29518m)\]
+# 100 Days Of Code - 学習ログ  \[計494h(29650m)\]
+
+### ■ 177日目: 2024年12月18日　[Twitterリンク](https://x.com/kyohei_IT/status/1869400064604713052)
+
+**今日の進捗**   132
+- Prisma編
+  - はじめてのtsoa×Expressで学ぶOpenAPI自動生成 ⇨ 100%
+  - Express認証付きスターターセット: Docker×Prisma×JWTで始めるバックエンド構築 ⇨ 30%
+
+
+**学んだこと**
+- swaggerUi.serve：SwaggerUIを生成するMW
+- generateHTML：SwaggerUIをHTML化する関数
+
+
+**思ったこと**
+- JS系フレームワークにもAPI仕様書の自動生成ツールあって安心😌
+
+
+<br>
+<hr>
+<br>
+
 
 ### ■ 176日目: 2024年12月17日　[Twitterリンク](https://x.com/kyohei_IT/status/1869040207594729734)
 
