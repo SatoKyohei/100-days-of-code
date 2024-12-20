@@ -1,4 +1,27 @@
-# 100 Days Of Code - 学習ログ  \[計495h(29710m)\]
+# 100 Days Of Code - 学習ログ  \[計497h(29822m)\]
+
+### ■ 179日目: 2024年12月20日　[Twitterリンク](https://x.com/kyohei_IT/status/1870142414868074879)
+
+**今日の進捗**   112
+- Prisma編
+  - Express認証付きスターターセット: Docker×Prisma×JWTで始めるバックエンド構築 ⇨ 100%
+  - TypeScriptで実現！Next.js × Expressによるスキーマ自動生成＆環境構築ガイド【Prisma、tsoa、Chakra
+
+
+**学んだこと**
+- Set：重複を許さない配列のようなもの
+- ルートハンドラーの2つ目の引数にMWを指定可能
+- jwt.verify：トークンの署名を鍵で検証
+
+
+**思ったこと**
+- 意味を調べてコメント入れるのがかなり勉強になる✌️
+
+
+<br>
+<hr>
+<br>
+
 
 ### ■ 178日目: 2024年12月19日　[Twitterリンク](https://x.com/kyohei_IT/status/1869764594014867706)
 
