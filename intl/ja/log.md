@@ -4,7 +4,7 @@
 
 **今日の進捗**   60
 - Prisma編
-  - TypeScriptで実現！Next.js × Expressによるスキーマ自動生成＆環境構築ガイド【Prisma、tsoa、Chakra ⇨ 40%
+  - TypeScriptで実現！Next.js × Expressによるスキーマ自動生成＆環境構築ガイド【Prisma、tsoa、Chakra ⇨ 50%
 
 
 **学んだこと**
