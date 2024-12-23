@@ -1,4 +1,25 @@
-# 100 Days Of Code - 学習ログ  \[計498h(29882m)\]
+# 100 Days Of Code - 学習ログ  \[計499h(29942m)\]
+
+### ■ 181日目: 2024年12月22日　[Twitterリンク](https://x.com/kyohei_IT/status/1870986839089397932)
+
+**今日の進捗**   60
+- Prisma編
+  - TypeScriptで実現！Next.js × Expressによるスキーマ自動生成＆環境構築ガイド【Prisma、tsoa、Chakra ⇨ 40%
+
+
+**学んだこと**
+- なし
+
+
+**思ったこと**
+- 昨日も予定があって1hしかできなかったーー涙ーー。ESLint自体が起動できないエラーも解消。
+- 今まではPrettierだけでしたがESLintもちゃんと使わなきゃですね
+
+
+<br>
+<hr>
+<br>
+
 
 ### ■ 180日目: 2024年12月21日　[Twitterリンク](https://x.com/kyohei_IT/status/1870647737550770365)
 
