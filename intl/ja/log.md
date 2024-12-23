@@ -1,4 +1,28 @@
-# 100 Days Of Code - 学習ログ  \[計499h(29942m)\]
+# 100 Days Of Code - 学習ログ  \[計501h(30062m)\]
+
+### ■ 182日目: 2024年12月23日　[Twitterリンク](https://x.com/kyohei_IT/status/1871221187973689660)
+
+**今日の進捗**   120
+- Prisma編
+  - TypeScriptで実現！Next.js × Expressによるスキーマ自動生成＆環境構築ガイド【Prisma、tsoa、Chakra ⇨ 70%
+
+
+**学んだこと**
+- prisma設定（M3 Mac用）
+generator client {
+  ....
+  binaryTargets = ["native", "linux-musl-arm64-openssl-3.0.x"]
+}
+
+
+**思ったこと**
+- ESLintのFlatConfig設定がやっと分かった✌️
+
+
+<br>
+<hr>
+<br>
+
 
 ### ■ 181日目: 2024年12月22日　[Twitterリンク](https://x.com/kyohei_IT/status/1870986839089397932)
 
