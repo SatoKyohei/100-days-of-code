@@ -1,4 +1,24 @@
-# 100 Days Of Code - 学習ログ  \[計501h(30062m)\]
+# 100 Days Of Code - 学習ログ  \[計502h(30134m)\]
+
+### ■ 183日目: 2024年12月24日　[Twitterリンク](https://x.com/kyohei_IT/status/1871590351343100010)
+
+**今日の進捗**   72
+- Prisma編
+  - TypeScriptで実現！Next.js × Expressによるスキーマ自動生成＆環境構築ガイド【Prisma、tsoa、Chakra ⇨ 80%
+
+
+**学んだこと**
+- zod：z.object({...})でバリデーションの定義
+
+
+**思ったこと**
+- 久々Next.js触ったのでだいぶうろ覚え感がすごい😢エラーも解消できず。ただ、何時間でも沼る覚悟はできてる🔥
+
+
+<br>
+<hr>
+<br>
+
 
 ### ■ 182日目: 2024年12月23日　[Twitterリンク](https://x.com/kyohei_IT/status/1871221187973689660)
 
