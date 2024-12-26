@@ -1,4 +1,25 @@
-# 100 Days Of Code - 学習ログ  \[計506h(30362m)\]
+# 100 Days Of Code - 学習ログ  \[計509h(30517m)\]
+
+### ■ 185日目: 2024年12月26日　[Twitterリンク](https://x.com/kyohei_IT/status/1872320919290695902)
+
+**今日の進捗**   165未入力
+- Prisma編
+  - TypeScriptで実現！Next.js × Expressによるスキーマ自動生成＆環境構築ガイド【Prisma、tsoa、Chakra ⇨ 100%
+
+
+**学んだこと**
+- cors：異なるポート等からのリクエストを許可するためのミドルウェア
+- <T extends FieldValues>：FieldValues型を拡張した型を呼び出し側でTに指定（ジェネリクス）
+
+
+**思ったこと**
+- やっと完！✌️
+
+
+<br>
+<hr>
+<br>
+
 
 ### ■ 184日目: 2024年12月25日　[Twitterリンク](https://x.com/kyohei_IT/status/1872080430138306673)
 
