@@ -1,8 +1,29 @@
-# 100 Days Of Code - 学習ログ  \[計509h(30517m)\]
+# 100 Days Of Code - 学習ログ  \[計512h(30722m)\]
+
+### ■ 186日目: 2024年12月27日　[Twitterリンク](https://x.com/kyohei_IT/status/1872798588839018557)
+
+**今日の進捗**   175
+- Prisma編
+  - Next.js × Express × Docker でフルスタックTodoアプリ作成 ⇨ 25%
+
+
+**学んだこと**
+- @defaultはデフォルト値
+- @relationでテーブルのリレーション
+
+
+**思ったこと**
+- 課題突入！課題は自分で作れるから楽しいです。とりあえずNode.js/Express, ESLint/Prettier, Docker, Prismaだけ完了です。
+
+
+<br>
+<hr>
+<br>
+
 
 ### ■ 185日目: 2024年12月26日　[Twitterリンク](https://x.com/kyohei_IT/status/1872320919290695902)
 
-**今日の進捗**   165未入力
+**今日の進捗**   165
 - Prisma編
   - TypeScriptで実現！Next.js × Expressによるスキーマ自動生成＆環境構築ガイド【Prisma、tsoa、Chakra ⇨ 100%
 
