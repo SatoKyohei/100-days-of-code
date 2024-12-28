@@ -1,4 +1,26 @@
-# 100 Days Of Code - 学習ログ  \[計512h(30722m)\]
+# 100 Days Of Code - 学習ログ  \[計515h(30890m)\]
+
+### ■ 187日目: 2024年12月28日　[Twitterリンク](https://x.com/kyohei_IT/status/1873040843290100049)
+
+**今日の進捗**   168
+- Prisma編
+  - Next.js × Express × Docker でフルスタックTodoアプリ作成 ⇨ 25%
+
+
+**学んだこと**
+- expressと@types/expressのメジャーバージョンが合ってないと型エラーを起こす
+- tsParser：TypeScriptをESLintが解析する際に必須のパーサー
+- typescriptEslint：@typescript-eslint/ から始まるルール設定時に必須
+
+
+**思ったこと**
+- コントローラー作成中
+
+
+<br>
+<hr>
+<br>
+
 
 ### ■ 186日目: 2024年12月27日　[Twitterリンク](https://x.com/kyohei_IT/status/1872798588839018557)
 
