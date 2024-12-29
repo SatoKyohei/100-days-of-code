@@ -1,10 +1,31 @@
-# 100 Days Of Code - 学習ログ  \[計515h(30890m)\]
+# 100 Days Of Code - 学習ログ  \[計517h(31020m)\]
+
+### ■ 188日目: 2024年12月29日　[Twitterリンク](https://x.com/kyohei_IT/status/1873398052800856570)
+
+**今日の進捗**   130
+- Prisma編
+  - Next.js × Express × Docker でフルスタックTodoアプリ作成 ⇨ 45%
+
+
+**学んだこと**
+- jwt.verify(token, SECRET_KEY, (err, user) =>{})
+  - tokenをSECRET_KEYで解析した結果のペイロードを第３引数のuserに格納
+
+
+**思ったこと**
+- 簡易的ではありますがJWTとbcryptで認証を実装できました涙。やっぱ書けると楽しい✌️
+
+
+<br>
+<hr>
+<br>
+
 
 ### ■ 187日目: 2024年12月28日　[Twitterリンク](https://x.com/kyohei_IT/status/1873040843290100049)
 
 **今日の進捗**   168
 - Prisma編
-  - Next.js × Express × Docker でフルスタックTodoアプリ作成 ⇨ 25%
+  - Next.js × Express × Docker でフルスタックTodoアプリ作成 ⇨ 35%
 
 
 **学んだこと**
