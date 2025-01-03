@@ -1,5 +1,28 @@
 # 100 Days Of Code - 学習ログ  \[計522h(31385m)\]
 
+### ■ 193日目: 2024年1月3日　[Twitterリンク](https://x.com/kyohei_IT/status/1875221622959001688)
+
+**今日の進捗**   190
+- Prisma編
+  - Next.js × Express × Docker でフルスタックTodoアプリ作成 ⇨ 80%
+
+
+**学んだこと**
+- const XXXContext = createContext~：グローバルな状態を定義
+- XXXContext.Provider：childrenに状態を提供
+- useContext(XXXContext)：Providerのvalueに指定した関数などをreturn
+
+
+**思ったこと**
+- 認証がムズイ😅
+
+
+
+<br>
+<hr>
+<br>
+
+
 ### ■ 192日目: 2024年1月2日　[Twitterリンク](https://x.com/kyohei_IT/status/1875001739323339150)
 
 **今日の進捗**   60
