@@ -1,4 +1,25 @@
-# 100 Days Of Code - 学習ログ  \[計522h(31385m)\]
+# 100 Days Of Code - 学習ログ  \[計526h(31615m)\]
+
+### ■ 194日目: 2024年1月4日　[Twitterリンク](https://x.com/kyohei_IT/status/1875724450261561463)
+
+**今日の進捗**   230
+- Prisma編
+  - Next.js × Express × Docker でフルスタックTodoアプリ作成 ⇨ 100%
+
+
+**学んだこと**
+- cookie-parser：クッキーをパースするバックエンドで使うパッケージ。tokenを受け取る時など。
+
+
+**思ったこと**
+- なんとかlogin/logoutとCRUDすべて実装！ただ、動きがもっさり&logoutがたまに失敗するのでポートフォリオで解消予定✌️
+
+
+
+<br>
+<hr>
+<br>
+
 
 ### ■ 193日目: 2024年1月3日　[Twitterリンク](https://x.com/kyohei_IT/status/1875221622959001688)
 
