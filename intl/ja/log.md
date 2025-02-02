@@ -1,4 +1,33 @@
-# 100 Days Of Code - 学習ログ  \[計548h(32946m)\]
+# 100 Days Of Code - 学習ログ  \[計549h(33006m)\]
+
+### ■ 219日目: 2024年2月2日　[Twitterリンク](https://x.com/kyohei_IT/status/1886067719839359379)
+
+**◯ 今日の進捗**  60
+- オリジナルポートフォリオアプリ開発編(Next)
+  - Prisma導入
+    - Seed登録
+- GCP学習
+  - GCE
+
+
+**◯ 学んだこと**
+- なし
+
+
+**◯ 思ったこと**  
+  
+PrismaClientを定義して、seed.tsを作成中です
+User, Prefecture, Areaを定義✌️
+
+まだ本調子ではないので暖かくして早く回復しよう😭
+
+
+
+
+<br>
+<hr>
+<br>
+
 
 ### ■ 218日目: 2024年2月1日　[Twitterリンク](https://x.com/kyohei_IT/status/1885847103559348462)
 
