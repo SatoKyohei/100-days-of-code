@@ -1,4 +1,34 @@
-# 100 Days Of Code - 学習ログ  \[計550h(33111m)\]
+# 100 Days Of Code - 学習ログ  \[計553h(33316m)\]
+
+### ■ 221日目: 2024年2月4日　[Twitterリンク](https://x.com/kyohei_IT/status/1886816812178006384)
+
+**◯ 今日の進捗**  205
+- オリジナルポートフォリオアプリ開発編(Next)
+  - Prisma導入
+    - Seed登録
+    - Prisma/Dockerデバッグ
+- GCP学習
+  - GCE
+  - VPC
+  - Cloud DNS
+
+
+**◯ 学んだこと**
+- ✏️PostgreSQLの場合、Prismaのmodel定義で大文字を使うと、DB内でもテーブル名に引用符が必要になる
+
+
+**◯ 思ったこと**  
+  
+↑沼りました😭
+あと日本語化でも沼中
+
+
+
+
+<br>
+<hr>
+<br>
+
 
 ### ■ 220日目: 2024年2月3日　[Twitterリンク](https://x.com/kyohei_IT/status/1886563408499368311)
 
