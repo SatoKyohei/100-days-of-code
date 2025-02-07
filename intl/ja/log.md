@@ -1,5 +1,33 @@
 # 100 Days Of Code - 学習ログ  \[計554h(33391m)\]
 
+### ■ 223日目: 2024年2月6日　[Twitterリンク](https://x.com/kyohei_IT/status/1887658016255975863)
+
+**◯ 今日の進捗**  138
+- オリジナルポートフォリオアプリ開発編(Next)
+  - Prisma導入
+    - Seed登録
+    - Prisma/Dockerデバッグ
+
+
+**◯ 学んだこと**
+- なし
+
+
+**◯ 思ったこと**  
+  
+select * from area;とすると日本語が16進数表記になるので、encodingを疑って累計5時間くらい調査😭
+
+でもselect * from area limit 3;とするとバグらない...
+...一旦次に進みます😭
+
+
+
+
+<br>
+<hr>
+<br>
+
+
 ### ■ 222日目: 2024年2月5日　[Twitterリンク](https://x.com/kyohei_IT/status/1887361586798506174)
 
 **◯ 今日の進捗**  75 
