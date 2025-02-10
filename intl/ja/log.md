@@ -1,4 +1,30 @@
-# 100 Days Of Code - 学習ログ  \[計554h(33391m)\]
+# 100 Days Of Code - 学習ログ  \[計556h(33521m)\]
+
+### ■ 224日目: 2024年2月9日　[Twitterリンク](https://x.com/kyohei_IT/status/1888818877456638133)
+
+**◯ 今日の進捗**  130
+- オリジナルポートフォリオアプリ開発編(Next)
+  - tsoa/SwaggerUI/JWT
+- GCP学習
+  - Cloud DNS
+  - GCS
+
+**◯ 学んだこと**
+- なし
+
+
+**◯ 思ったこと**  
+  
+一旦DB周りは後回しにして、tsoaとJWT（認証）周りから設定。
+
+GCPも順調ですがObservability（監視関連）の業務がメインなので、そろそろ公式のラーニングを開始🔥
+
+
+
+<br>
+<hr>
+<br>
+
 
 ### ■ 223日目: 2024年2月6日　[Twitterリンク](https://x.com/kyohei_IT/status/1887658016255975863)
 
