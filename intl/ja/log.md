@@ -1,13 +1,14 @@
-# 100 Days Of Code - 学習ログ  \[計560h(33611m)\]
+# 100 Days Of Code - 学習ログ  \[計564h(33836m)\]
 
-### ■ 226日目: 2024年2月11日　[Twitterリンク]()
+### ■ 226日目: 2024年2月11日　[Twitterリンク](https://x.com/kyohei_IT/status/1889467931945476589)
 
-**◯ 今日の進捗**  
+**◯ 今日の進捗**  225
 - オリジナルポートフォリオアプリ開発編(Next)
-  - tsoa/SwaggerUI/JWT
   - UserController.ts
+  - index.ts
 - GCP学習
-  - 
+  - Cloud Monitoring
+  - Cloud Logging
 
 **◯ 学んだこと**
 - なし
@@ -15,7 +16,8 @@
 
 **◯ 思ったこと**  
   
-
+ユーザー用のログイン、ログアウト、新規登録、情報取得のAPIを定義✌️
+GCPはObserbavility関連の学習開始🔥
 
 
 
@@ -30,8 +32,6 @@
 - オリジナルポートフォリオアプリ開発編(Next)
   - tsoa/SwaggerUI/JWT
   - UserController.ts
-- GCP学習
-  - 
 
 **◯ 学んだこと**
 - なし
