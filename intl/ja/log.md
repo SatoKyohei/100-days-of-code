@@ -1,4 +1,29 @@
-# 100 Days Of Code - 学習ログ  \[計564h(33836m)\]
+# 100 Days Of Code - 学習ログ  \[計567h(34011m)\]
+
+### ■ 227日目: 2024年2月15日　[Twitterリンク](https://x.com/kyohei_IT/status/1890946245457240567)
+
+**◯ 今日の進捗**  175
+- オリジナルポートフォリオアプリ開発編(Next)
+  - PlansController.ts
+- GCP学習
+  - Cloud Monitoring
+  - Cloud Logging
+
+**◯ 学んだこと**
+- なし
+
+
+**◯ 思ったこと**  
+  
+GCPのチュートリアルの指示通りやってもできない事象多発😭
+更新してないのかも？とはいえ順調✌️
+
+
+
+<br>
+<hr>
+<br>
+
 
 ### ■ 226日目: 2024年2月11日　[Twitterリンク](https://x.com/kyohei_IT/status/1889467931945476589)
 
