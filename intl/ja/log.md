@@ -1,4 +1,29 @@
-# 100 Days Of Code - 学習ログ  \[計570h(34174m)\]
+# 100 Days Of Code - 学習ログ  \[計572h(34321m)\]
+
+### ■ 230日目: 2024年2月24日　[Twitterリンク](https://x.com/kyohei_IT/status/1894048070750339388)
+
+**◯ 今日の進捗**  147
+- オリジナルポートフォリオアプリ開発編(Next)
+  - 各記事のauthorId設定(seed.ts)
+  - Cookie-parser設定
+  - Set-Cookie定義
+  - schema.prisma調整
+  - 全記事取得処理（useEffect)
+
+**◯ 学んだこと**
+- なし
+
+
+**◯ 思ったこと**  
+  
+Postmanでリクエスト飛ばしながらやったおかげでJWTやCookieなど色々理解が深まりました✌️
+
+
+
+<br>
+<hr>
+<br>
+
 
 ### ■ 229日目: 2024年2月23日　[Twitterリンク](https://x.com/kyohei_IT/status/1893854676379967845)
 
