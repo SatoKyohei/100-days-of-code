@@ -1,6 +1,31 @@
-# 100 Days Of Code - 学習ログ  \[計567h(34011m)\]
+# 100 Days Of Code - 学習ログ  \[計570h(34174m)\]
 
-### ■ 228日目: 2024年2月22日　[Twitterリンク]()
+### ■ 229日目: 2024年2月23日　[Twitterリンク](https://x.com/kyohei_IT/status/1893854676379967845)
+
+**◯ 今日の進捗**  90
+- オリジナルポートフォリオアプリ開発編(Next)
+  - PlansController.ts
+  - UserController.ts
+
+**◯ 学んだこと**
+- なし
+
+
+**◯ 思ったこと**  
+  
+投稿滞ってました🙇
+完全言い訳ですが、現職の業務が忙しく...
+
+進捗：usersController.tsのAPIはほぼOKそうです👍
+
+
+
+<br>
+<hr>
+<br>
+
+
+### ■ 228日目: 2024年2月22日　[Twitterリンク](https://x.com/kyohei_IT/status/1893854676379967845)
 
 **◯ 今日の進捗**  73
 - オリジナルポートフォリオアプリ開発編(Next)
