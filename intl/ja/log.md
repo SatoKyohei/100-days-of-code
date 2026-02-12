@@ -2,11 +2,14 @@
 
 ### ■ 437日目: 2026年2月12日　[Twitterリンク]()
 
-**◯ 今日の進捗** 
+**◯ 今日の進捗** 80
 - 中1数学をひとつひとつわかりやすく。：
-- 英語：
-  - Kendra's Language School：
-  - AI会話練習：
+- 英語：20
+  - Kendra's Language School：10
+  - AI会話練習：10
+- CodeLesson開発：60
+  - issue#2018
+
 
 <br>
 <hr>
