@@ -22,9 +22,9 @@
 
 ### ■ 454日目: 2026年3月1日　[Twitterリンク]()
 
-**◯ 今日の進捗** 
+**◯ 今日の進捗** 15
 - 英語：
-  - Kendra's Language School：
+  - Kendra's Language School：15
   - AI会話練習：
 - SPI：
 
