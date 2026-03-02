@@ -23,17 +23,10 @@
 ### ■ 455日目: 2026年3月2日　[Twitterリンク]()
 
 **◯ 今日の進捗** 154
-- 中1数学をひとつひとつわかりやすく。：
 - 英語：
   - Kendra's Language School：
   - AI会話練習：
 - SPI：154
-- AWS SAP試験：
-  - 【SAA】【Pingt】主要なサービス：
-- JSDOM編：
-  - 【JSDOM編】ハンバーガーメニューを作ろう：
-- CodeLesson開発：
-  - issue#2018：
 
 <br>
 <hr>
