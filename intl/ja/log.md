@@ -2,14 +2,14 @@
 
 ### ■ 459日目: 2026年3月6日　[Twitterリンク]()
 
-**◯ 今日の進捗** 
+**◯ 今日の進捗** 40
 - 中1数学をひとつひとつわかりやすく。：
-- 英語：
-  - Kendra's Language School：
+- 英語：20
+  - Kendra's Language School：16
   - AI会話練習：
-  - Listening Time：
-- AWS SAP試験：
-  - 【SAA】【Pingt】主要なサービス：
+  - Listening Time：4
+- AWS SAP試験：20
+  - 【SAA】【Pingt】主要なサービス：20
 - JSDOM編：
   - 【JSDOM編】ハンバーガーメニューを作ろう：
 - CodeLesson開発：
