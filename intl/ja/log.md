@@ -2,12 +2,12 @@
 
 ### ■ 463日目: 2026年3月11日　[Twitterリンク]()
 
-**◯ 今日の進捗** 
-- 中1数学をひとつひとつわかりやすく。：
-- 英語：
-  - Kendra's Language School：
+**◯ 今日の進捗** 45
+- 中1数学をひとつひとつわかりやすく。：20
+- 英語：25
+  - Kendra's Language School：15
   - AI会話練習：
-  - Listening Time：
+  - Listening Time：10
 - AWS SAP試験：
   - 【SAA】【Pingt】主要なサービス：
 - JSDOM編：
