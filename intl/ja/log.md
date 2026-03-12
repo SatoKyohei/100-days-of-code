@@ -27,14 +27,9 @@
 - 英語：18
   - Kendra's Language School：13
   - AI会話練習：5
-  - Listening Time：
 - AWS SAP試験：88
   - 【SAA】【Pingt】主要なサービス：33
   - 【SAA】【Pingt】コンピューティング：55
-- JSDOM編：
-  - 【JSDOM編】ハンバーガーメニューを作ろう：
-- CodeLesson開発：
-  - issue#2018：
 
 <br>
 <hr>
