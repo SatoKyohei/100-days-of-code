@@ -2,12 +2,12 @@
 
 ### ■ 466日目: 2026年3月14日　[Twitterリンク]()
 
-**◯ 今日の進捗** 
+**◯ 今日の進捗** 30
 - 中1数学をひとつひとつわかりやすく。：
 - 英語：
   - Kendra's Language School：
   - AI会話練習：
-  - Pimsleur：
+  - Pimsleur：30
 - AWS SAP試験：
   - 【SAA】【Pingt】ストレージ：
 - JSDOM編：
