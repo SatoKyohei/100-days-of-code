@@ -23,9 +23,10 @@
 
 ### ■ 467日目: 2026年3月15日　[Twitterリンク]()
 
-**◯ 今日の進捗** 110
-- 英語：45
+**◯ 今日の進捗** 120
+- 英語：55
   - Kendra's Language School：15
+  - AI会話練習：10
   - Pimsleur：30
 - Gemini CLIとNotion MCP連携：20
 - AWS SAP試験：45
