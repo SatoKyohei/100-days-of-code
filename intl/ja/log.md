@@ -1,19 +1,50 @@
 # 100 Days Of Code - 学習ログ  \[計795h(47,748m)\]
 
-### ■ 466日目: 2026年3月14日　[Twitterリンク]()
+### ■ 468日目: 2026年3月16日　[Twitterリンク]()
 
-**◯ 今日の進捗** 30
+**◯ 今日の進捗** 
 - 中1数学をひとつひとつわかりやすく。：
 - 英語：
   - Kendra's Language School：
   - AI会話練習：
-  - Pimsleur：30
+  - Pimsleur：
+- Gemini CLIとNotion MCP連携：
 - AWS SAP試験：
-  - 【SAA】【Pingt】ストレージ：
+  - 【SAA】【Pingt】マネジメント、ガバナンス：
 - JSDOM編：
   - 【JSDOM編】ハンバーガーメニューを作ろう：
 - CodeLesson開発：
   - issue#2018：
+
+<br>
+<hr>
+<br>
+
+
+### ■ 467日目: 2026年3月15日　[Twitterリンク]()
+
+**◯ 今日の進捗** 110
+- 英語：45
+  - Kendra's Language School：15
+  - Pimsleur：30
+- Gemini CLIとNotion MCP連携：20
+- AWS SAP試験：45
+  - 【SAA】【Pingt】マネジメント、ガバナンス：45
+
+<br>
+<hr>
+<br>
+
+
+### ■ 466日目: 2026年3月14日　[Twitterリンク]()
+
+**◯ 今日の進捗** 130
+- 中1数学をひとつひとつわかりやすく。：10
+- 英語：45
+  - Kendra's Language School：15
+  - Pimsleur：30
+- AWS SAP試験：75
+  - 【SAA】【Pingt】ストレージ：75
 
 <br>
 <hr>
