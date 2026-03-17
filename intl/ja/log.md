@@ -4,10 +4,10 @@
 
 **◯ 今日の進捗** 
 - 中1数学をひとつひとつわかりやすく。：
-- 英語：
-  - Kendra's Language School：
+- 英語：40
+  - Kendra's Language School：10
   - AI会話練習：
-  - Pimsleur：
+  - Pimsleur：30
 - AWS SAP試験：
   - 【SAA】【Pingt】セキュリティ、アイデンティティ、コンプライアンス：
 - JSDOM編：
