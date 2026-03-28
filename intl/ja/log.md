@@ -1,19 +1,30 @@
 # 100 Days Of Code - 学習ログ  \[計795h(47,748m)\]
 
-### ■ 479日目: 2026年3月27日　[Twitterリンク]()
+### ■ 480日目: 2026年3月28日　[Twitterリンク]()
 
 **◯ 今日の進捗** 
 - 中1数学をひとつひとつわかりやすく。：
 - 英語：
   - Kendra's Language School：
   - AI会話練習：
-  - Pimsleur：
+  - Pimsleur：30
 - AWS SAP試験：
   - 【SAA】【Pingt】セキュリティ、アイデンティティ、コンプライアンス：
 - JSDOM編：
   - 【JSDOM編】ハンバーガーメニューを作ろう：
 - CodeLesson開発：
   - issue#2018：
+
+<br>
+<hr>
+<br>
+
+
+### ■ 479日目: 2026年3月27日　[Twitterリンク]()
+
+**◯ 今日の進捗** 30
+- 英語：30
+  - Pimsleur：30
 
 <br>
 <hr>
