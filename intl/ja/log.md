@@ -2,13 +2,13 @@
 
 ### ■ 495日目: 2026年4月12日　[Twitterリンク]()
 
-**◯ 今日の進捗** 
+**◯ 今日の進捗** 80
 - 中1数学をひとつひとつわかりやすく。：
-- 英語：
-  - LingQ：
-  - Pimsleur：38
-- AWS SAP試験：
-  - 
+- 英語：55
+  - LingQ：16
+  - Pimsleur：39
+- AWS SAP試験：25
+  - 【SAA】【Pingt】分析：25
 - JSDOM編：
   - 【JSDOM編】ハンバーガーメニューを作ろう：
 - CodeLesson開発：
