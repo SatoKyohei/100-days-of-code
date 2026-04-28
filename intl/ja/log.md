@@ -2,20 +2,21 @@
 
 ### ■ 511日目: 2026年4月28日　[Twitterリンク]()
 
-**◯ 今日の進捗** 
+**◯ 今日の進捗** 109
+
 - 中1数学をひとつひとつわかりやすく。：
-- 英語：
-  - LingQ：
-  - Pimsleur：
-  - レアジョブ英会話：
+- 英語：101
+  - LingQ：13
+  - Pimsleur：38
+  - レアジョブ英会話：50
 - AWS SAP試験：
   - 【SAA】【Pingt】その他のサービスなど：
 - JSDOM編：
   - 【JSDOM編】ハンバーガーメニューを作ろう：
 - CodeLesson開発：
   - issue#2018：
-- Tech Mentor：
-  - 【TypeScript】必要最小限のTypeScript入門：
+- Tech Mentor：8
+  - 【TypeScript】基本の型を使って、関数の型を理解しよう：8
 
 <br>
 <hr>
